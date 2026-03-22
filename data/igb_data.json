@@ -1,33 +1,5348 @@
 {
-  "data_month": "January 2026",
-  "fetched_at": "2026-01-10T15:00:00Z",
-  "state_avg": 9347,
-  "state_top25": 13200,
+  "data_month": "February 2026",
+  "fetched_at": "2026-03-22T18:44:26Z",
+  "state_avg": 23007,
+  "state_top25": 30661,
   "cities": {
-    "cicero":      { "avg": 9820,  "top": 13400, "locs": 94  },
-    "berwyn":      { "avg": 9240,  "top": 12800, "locs": 78  },
-    "joliet":      { "avg": 8940,  "top": 12200, "locs": 112 },
-    "oak lawn":    { "avg": 9100,  "top": 12600, "locs": 67  },
-    "rockford":    { "avg": 7820,  "top": 11200, "locs": 143 },
-    "springfield": { "avg": 7640,  "top": 10800, "locs": 98  },
-    "peoria":      { "avg": 7540,  "top": 10600, "locs": 87  },
-    "elgin":       { "avg": 8620,  "top": 12000, "locs": 74  },
-    "waukegan":    { "avg": 7980,  "top": 11400, "locs": 89  },
-    "aurora":      { "avg": 8340,  "top": 11800, "locs": 76  },
-    "decatur":     { "avg": 7200,  "top": 10200, "locs": 62  },
-    "bloomington": { "avg": 7480,  "top": 10400, "locs": 54  },
-    "champaign":   { "avg": 7360,  "top": 10200, "locs": 48  },
-    "moline":      { "avg": 7420,  "top": 10400, "locs": 44  },
-    "normal":      { "avg": 7180,  "top": 10000, "locs": 38  },
-    "chicago":     { "avg": 7600,  "top": 10800, "locs": 280 },
-    "naperville":  { "avg": 8100,  "top": 11400, "locs": 58  },
-    "quincy":      { "avg": 7100,  "top": 10000, "locs": 41  },
-    "galesburg":   { "avg": 6900,  "top": 9800,  "locs": 34  },
-    "kankakee":    { "avg": 7300,  "top": 10200, "locs": 37  },
-    "danville":    { "avg": 6800,  "top": 9600,  "locs": 32  },
-    "belleville":  { "avg": 7500,  "top": 10600, "locs": 55  },
-    "granite city":{ "avg": 7200,  "top": 10200, "locs": 28  },
-    "alton":       { "avg": 7100,  "top": 9900,  "locs": 31  },
-    "default":     { "avg": 8200,  "top": 11600, "locs": 65  }
+    "abingdon": {
+      "avg": 15108,
+      "top": 15108,
+      "locs": 1
+    },
+    "adams county": {
+      "avg": 14493,
+      "top": 14493,
+      "locs": 1
+    },
+    "addieville": {
+      "avg": 3664,
+      "top": 3664,
+      "locs": 1
+    },
+    "addison": {
+      "avg": 45544,
+      "top": 45544,
+      "locs": 1
+    },
+    "albany": {
+      "avg": 10424,
+      "top": 10424,
+      "locs": 1
+    },
+    "albers": {
+      "avg": 16379,
+      "top": 16379,
+      "locs": 1
+    },
+    "albion": {
+      "avg": 3972,
+      "top": 3972,
+      "locs": 1
+    },
+    "aledo": {
+      "avg": 11395,
+      "top": 11395,
+      "locs": 1
+    },
+    "alexander county": {
+      "avg": 17379,
+      "top": 17379,
+      "locs": 1
+    },
+    "alexis": {
+      "avg": 7029,
+      "top": 7029,
+      "locs": 1
+    },
+    "algonquin": {
+      "avg": 19135,
+      "top": 19135,
+      "locs": 1
+    },
+    "alhambra": {
+      "avg": 7177,
+      "top": 7177,
+      "locs": 1
+    },
+    "alma": {
+      "avg": 9425,
+      "top": 9425,
+      "locs": 1
+    },
+    "alpha": {
+      "avg": 9660,
+      "top": 9660,
+      "locs": 1
+    },
+    "alsey": {
+      "avg": 8417,
+      "top": 8417,
+      "locs": 1
+    },
+    "alsip": {
+      "avg": 46708,
+      "top": 46708,
+      "locs": 1
+    },
+    "altamont": {
+      "avg": 15401,
+      "top": 15401,
+      "locs": 1
+    },
+    "alto pass": {
+      "avg": 4016,
+      "top": 4016,
+      "locs": 1
+    },
+    "alton": {
+      "avg": 26754,
+      "top": 26754,
+      "locs": 1
+    },
+    "altona": {
+      "avg": 5394,
+      "top": 5394,
+      "locs": 1
+    },
+    "amboy": {
+      "avg": 20568,
+      "top": 20568,
+      "locs": 1
+    },
+    "andalusia": {
+      "avg": 15316,
+      "top": 15316,
+      "locs": 1
+    },
+    "andover": {
+      "avg": 16486,
+      "top": 16486,
+      "locs": 1
+    },
+    "anna": {
+      "avg": 25860,
+      "top": 25860,
+      "locs": 1
+    },
+    "annawan": {
+      "avg": 18883,
+      "top": 18883,
+      "locs": 1
+    },
+    "antioch": {
+      "avg": 41032,
+      "top": 41032,
+      "locs": 1
+    },
+    "apple river": {
+      "avg": 3024,
+      "top": 3024,
+      "locs": 1
+    },
+    "arcola": {
+      "avg": 27182,
+      "top": 27182,
+      "locs": 1
+    },
+    "arenzville": {
+      "avg": 4898,
+      "top": 4898,
+      "locs": 1
+    },
+    "argenta": {
+      "avg": 19504,
+      "top": 19504,
+      "locs": 1
+    },
+    "arlington": {
+      "avg": 19990,
+      "top": 19990,
+      "locs": 1
+    },
+    "aroma park": {
+      "avg": 20619,
+      "top": 20619,
+      "locs": 1
+    },
+    "arthur": {
+      "avg": 18588,
+      "top": 18588,
+      "locs": 1
+    },
+    "ashkum": {
+      "avg": 4721,
+      "top": 4721,
+      "locs": 1
+    },
+    "ashland": {
+      "avg": 13383,
+      "top": 13383,
+      "locs": 1
+    },
+    "ashley": {
+      "avg": 15378,
+      "top": 15378,
+      "locs": 1
+    },
+    "ashmore": {
+      "avg": 17169,
+      "top": 17169,
+      "locs": 1
+    },
+    "ashton": {
+      "avg": 11955,
+      "top": 11955,
+      "locs": 1
+    },
+    "assumption": {
+      "avg": 8754,
+      "top": 8754,
+      "locs": 1
+    },
+    "astoria": {
+      "avg": 12350,
+      "top": 12350,
+      "locs": 1
+    },
+    "athens": {
+      "avg": 20945,
+      "top": 20945,
+      "locs": 1
+    },
+    "atkinson": {
+      "avg": 19887,
+      "top": 19887,
+      "locs": 1
+    },
+    "atlanta": {
+      "avg": 13067,
+      "top": 13067,
+      "locs": 1
+    },
+    "atwood": {
+      "avg": 8021,
+      "top": 8021,
+      "locs": 1
+    },
+    "auburn": {
+      "avg": 18319,
+      "top": 18319,
+      "locs": 1
+    },
+    "augusta": {
+      "avg": 18813,
+      "top": 18813,
+      "locs": 1
+    },
+    "aurora": {
+      "avg": 39344,
+      "top": 39344,
+      "locs": 1
+    },
+    "ava": {
+      "avg": 6263,
+      "top": 6263,
+      "locs": 1
+    },
+    "aviston": {
+      "avg": 10386,
+      "top": 10386,
+      "locs": 1
+    },
+    "avon": {
+      "avg": 4131,
+      "top": 4131,
+      "locs": 1
+    },
+    "baldwin": {
+      "avg": 7860,
+      "top": 7860,
+      "locs": 1
+    },
+    "banner": {
+      "avg": 2654,
+      "top": 2654,
+      "locs": 1
+    },
+    "barry": {
+      "avg": 7664,
+      "top": 7664,
+      "locs": 1
+    },
+    "bartelso": {
+      "avg": 7348,
+      "top": 7348,
+      "locs": 1
+    },
+    "bartlett": {
+      "avg": 40689,
+      "top": 40689,
+      "locs": 1
+    },
+    "bartonville": {
+      "avg": 23395,
+      "top": 23395,
+      "locs": 1
+    },
+    "basco": {
+      "avg": 5786,
+      "top": 5786,
+      "locs": 1
+    },
+    "batavia": {
+      "avg": 18207,
+      "top": 18207,
+      "locs": 1
+    },
+    "batchtown": {
+      "avg": 4753,
+      "top": 4753,
+      "locs": 1
+    },
+    "beach park": {
+      "avg": 25561,
+      "top": 25561,
+      "locs": 1
+    },
+    "beardstown": {
+      "avg": 19706,
+      "top": 19706,
+      "locs": 1
+    },
+    "beaverville": {
+      "avg": 12386,
+      "top": 12386,
+      "locs": 1
+    },
+    "beckemeyer": {
+      "avg": 20156,
+      "top": 20156,
+      "locs": 1
+    },
+    "bedford park": {
+      "avg": 73495,
+      "top": 73495,
+      "locs": 1
+    },
+    "beecher": {
+      "avg": 17252,
+      "top": 17252,
+      "locs": 1
+    },
+    "beecher city": {
+      "avg": 4341,
+      "top": 4341,
+      "locs": 1
+    },
+    "belgium": {
+      "avg": 10803,
+      "top": 10803,
+      "locs": 1
+    },
+    "belleville": {
+      "avg": 28383,
+      "top": 28383,
+      "locs": 1
+    },
+    "bellevue": {
+      "avg": 31347,
+      "top": 31347,
+      "locs": 1
+    },
+    "bellwood": {
+      "avg": 18111,
+      "top": 18111,
+      "locs": 1
+    },
+    "belvidere": {
+      "avg": 27754,
+      "top": 27754,
+      "locs": 1
+    },
+    "bement": {
+      "avg": 18142,
+      "top": 18142,
+      "locs": 1
+    },
+    "benld": {
+      "avg": 6227,
+      "top": 6227,
+      "locs": 1
+    },
+    "bensenville": {
+      "avg": 30486,
+      "top": 30486,
+      "locs": 1
+    },
+    "benson": {
+      "avg": 12171,
+      "top": 12171,
+      "locs": 1
+    },
+    "benton": {
+      "avg": 20487,
+      "top": 20487,
+      "locs": 1
+    },
+    "berkeley": {
+      "avg": 23260,
+      "top": 23260,
+      "locs": 1
+    },
+    "berwyn": {
+      "avg": 24136,
+      "top": 24136,
+      "locs": 1
+    },
+    "bethalto": {
+      "avg": 32173,
+      "top": 32173,
+      "locs": 1
+    },
+    "bethany": {
+      "avg": 9028,
+      "top": 9028,
+      "locs": 1
+    },
+    "big rock": {
+      "avg": 15835,
+      "top": 15835,
+      "locs": 1
+    },
+    "bishop hill": {
+      "avg": 5746,
+      "top": 5746,
+      "locs": 1
+    },
+    "bismarck": {
+      "avg": 21328,
+      "top": 21328,
+      "locs": 1
+    },
+    "blandinsville": {
+      "avg": 5192,
+      "top": 5192,
+      "locs": 1
+    },
+    "bloomingdale": {
+      "avg": 31858,
+      "top": 31858,
+      "locs": 1
+    },
+    "bloomington": {
+      "avg": 32966,
+      "top": 32966,
+      "locs": 1
+    },
+    "blue island": {
+      "avg": 26864,
+      "top": 26864,
+      "locs": 1
+    },
+    "blue mound": {
+      "avg": 15424,
+      "top": 15424,
+      "locs": 1
+    },
+    "bluffs": {
+      "avg": 20097,
+      "top": 20097,
+      "locs": 1
+    },
+    "bluford": {
+      "avg": 16036,
+      "top": 16036,
+      "locs": 1
+    },
+    "bond county": {
+      "avg": 7617,
+      "top": 7617,
+      "locs": 1
+    },
+    "bonnie": {
+      "avg": 2510,
+      "top": 2510,
+      "locs": 1
+    },
+    "boone county": {
+      "avg": 17333,
+      "top": 17333,
+      "locs": 1
+    },
+    "bourbonnais": {
+      "avg": 35978,
+      "top": 35978,
+      "locs": 1
+    },
+    "bowen": {
+      "avg": 2554,
+      "top": 2554,
+      "locs": 1
+    },
+    "braceville": {
+      "avg": 7801,
+      "top": 7801,
+      "locs": 1
+    },
+    "bradford": {
+      "avg": 11045,
+      "top": 11045,
+      "locs": 1
+    },
+    "bradley": {
+      "avg": 32837,
+      "top": 32837,
+      "locs": 1
+    },
+    "braidwood": {
+      "avg": 18893,
+      "top": 18893,
+      "locs": 1
+    },
+    "breese": {
+      "avg": 17363,
+      "top": 17363,
+      "locs": 1
+    },
+    "bridgeport": {
+      "avg": 10222,
+      "top": 10222,
+      "locs": 1
+    },
+    "bridgeview": {
+      "avg": 30752,
+      "top": 30752,
+      "locs": 1
+    },
+    "brighton": {
+      "avg": 28656,
+      "top": 28656,
+      "locs": 1
+    },
+    "brimfield": {
+      "avg": 11634,
+      "top": 11634,
+      "locs": 1
+    },
+    "broadview": {
+      "avg": 39821,
+      "top": 39821,
+      "locs": 1
+    },
+    "brocton": {
+      "avg": 6422,
+      "top": 6422,
+      "locs": 1
+    },
+    "brookfield": {
+      "avg": 35192,
+      "top": 35192,
+      "locs": 1
+    },
+    "brookport": {
+      "avg": 31131,
+      "top": 31131,
+      "locs": 1
+    },
+    "brownstown": {
+      "avg": 16741,
+      "top": 16741,
+      "locs": 1
+    },
+    "brussels": {
+      "avg": 9867,
+      "top": 9867,
+      "locs": 1
+    },
+    "bryant": {
+      "avg": 4005,
+      "top": 4005,
+      "locs": 1
+    },
+    "buckley": {
+      "avg": 10994,
+      "top": 10994,
+      "locs": 1
+    },
+    "buckner": {
+      "avg": 11482,
+      "top": 11482,
+      "locs": 1
+    },
+    "buda": {
+      "avg": 16247,
+      "top": 16247,
+      "locs": 1
+    },
+    "buffalo": {
+      "avg": 1528,
+      "top": 1528,
+      "locs": 1
+    },
+    "buffalo grove": {
+      "avg": 27610,
+      "top": 27610,
+      "locs": 1
+    },
+    "bulpitt": {
+      "avg": 10170,
+      "top": 10170,
+      "locs": 1
+    },
+    "buncombe": {
+      "avg": 6676,
+      "top": 6676,
+      "locs": 1
+    },
+    "bunker hill": {
+      "avg": 13435,
+      "top": 13435,
+      "locs": 1
+    },
+    "burbank": {
+      "avg": 42549,
+      "top": 42549,
+      "locs": 1
+    },
+    "bureau": {
+      "avg": 3303,
+      "top": 3303,
+      "locs": 1
+    },
+    "bureau county": {
+      "avg": 5811,
+      "top": 5811,
+      "locs": 1
+    },
+    "burlington": {
+      "avg": 9995,
+      "top": 9995,
+      "locs": 1
+    },
+    "burnham": {
+      "avg": 24154,
+      "top": 24154,
+      "locs": 1
+    },
+    "bushnell": {
+      "avg": 14530,
+      "top": 14530,
+      "locs": 1
+    },
+    "byron": {
+      "avg": 28329,
+      "top": 28329,
+      "locs": 1
+    },
+    "cabery": {
+      "avg": 5315,
+      "top": 5315,
+      "locs": 1
+    },
+    "cahokia heights": {
+      "avg": 31917,
+      "top": 31917,
+      "locs": 1
+    },
+    "cairo": {
+      "avg": 17802,
+      "top": 17802,
+      "locs": 1
+    },
+    "calhoun county": {
+      "avg": 12077,
+      "top": 12077,
+      "locs": 1
+    },
+    "calumet city": {
+      "avg": 41819,
+      "top": 41819,
+      "locs": 1
+    },
+    "calumet park": {
+      "avg": 29479,
+      "top": 29479,
+      "locs": 1
+    },
+    "camargo": {
+      "avg": 6174,
+      "top": 6174,
+      "locs": 1
+    },
+    "cambridge": {
+      "avg": 7286,
+      "top": 7286,
+      "locs": 1
+    },
+    "camp point": {
+      "avg": 5402,
+      "top": 5402,
+      "locs": 1
+    },
+    "campbell hill": {
+      "avg": 8951,
+      "top": 8951,
+      "locs": 1
+    },
+    "campton hills": {
+      "avg": 25244,
+      "top": 25244,
+      "locs": 1
+    },
+    "campus": {
+      "avg": 4415,
+      "top": 4415,
+      "locs": 1
+    },
+    "canton": {
+      "avg": 36015,
+      "top": 36015,
+      "locs": 1
+    },
+    "cantrall": {
+      "avg": 3070,
+      "top": 3070,
+      "locs": 1
+    },
+    "capron": {
+      "avg": 14348,
+      "top": 14348,
+      "locs": 1
+    },
+    "carbon cliff": {
+      "avg": 15096,
+      "top": 15096,
+      "locs": 1
+    },
+    "carbon hill": {
+      "avg": 10826,
+      "top": 10826,
+      "locs": 1
+    },
+    "carbondale": {
+      "avg": 29097,
+      "top": 29097,
+      "locs": 1
+    },
+    "carlinville": {
+      "avg": 25249,
+      "top": 25249,
+      "locs": 1
+    },
+    "carlyle": {
+      "avg": 24171,
+      "top": 24171,
+      "locs": 1
+    },
+    "carmi": {
+      "avg": 19425,
+      "top": 19425,
+      "locs": 1
+    },
+    "carol stream": {
+      "avg": 43909,
+      "top": 43909,
+      "locs": 1
+    },
+    "carpentersville": {
+      "avg": 34809,
+      "top": 34809,
+      "locs": 1
+    },
+    "carrier mills": {
+      "avg": 15996,
+      "top": 15996,
+      "locs": 1
+    },
+    "carroll county": {
+      "avg": 12819,
+      "top": 12819,
+      "locs": 1
+    },
+    "carrollton": {
+      "avg": 22035,
+      "top": 22035,
+      "locs": 1
+    },
+    "carterville": {
+      "avg": 25416,
+      "top": 25416,
+      "locs": 1
+    },
+    "carthage": {
+      "avg": 13948,
+      "top": 13948,
+      "locs": 1
+    },
+    "cary": {
+      "avg": 34963,
+      "top": 34963,
+      "locs": 1
+    },
+    "casey": {
+      "avg": 23848,
+      "top": 23848,
+      "locs": 1
+    },
+    "caseyville": {
+      "avg": 34377,
+      "top": 34377,
+      "locs": 1
+    },
+    "cass county": {
+      "avg": 5918,
+      "top": 5918,
+      "locs": 1
+    },
+    "catlin": {
+      "avg": 9801,
+      "top": 9801,
+      "locs": 1
+    },
+    "cedar point": {
+      "avg": 18014,
+      "top": 18014,
+      "locs": 1
+    },
+    "cedarville": {
+      "avg": 22186,
+      "top": 22186,
+      "locs": 1
+    },
+    "central city": {
+      "avg": 33272,
+      "top": 33272,
+      "locs": 1
+    },
+    "centralia": {
+      "avg": 32789,
+      "top": 32789,
+      "locs": 1
+    },
+    "cerro gordo": {
+      "avg": 18244,
+      "top": 18244,
+      "locs": 1
+    },
+    "chadwick": {
+      "avg": 7913,
+      "top": 7913,
+      "locs": 1
+    },
+    "champaign": {
+      "avg": 41450,
+      "top": 41450,
+      "locs": 1
+    },
+    "champaign county": {
+      "avg": 31466,
+      "top": 31466,
+      "locs": 1
+    },
+    "chandlerville": {
+      "avg": 5327,
+      "top": 5327,
+      "locs": 1
+    },
+    "channahon": {
+      "avg": 25353,
+      "top": 25353,
+      "locs": 1
+    },
+    "chapin": {
+      "avg": 6804,
+      "top": 6804,
+      "locs": 1
+    },
+    "charleston": {
+      "avg": 24518,
+      "top": 24518,
+      "locs": 1
+    },
+    "chatham": {
+      "avg": 25306,
+      "top": 25306,
+      "locs": 1
+    },
+    "chatsworth": {
+      "avg": 18098,
+      "top": 18098,
+      "locs": 1
+    },
+    "chebanse": {
+      "avg": 7523,
+      "top": 7523,
+      "locs": 1
+    },
+    "chenoa": {
+      "avg": 17689,
+      "top": 17689,
+      "locs": 1
+    },
+    "cherry": {
+      "avg": 3282,
+      "top": 3282,
+      "locs": 1
+    },
+    "cherry valley": {
+      "avg": 34810,
+      "top": 34810,
+      "locs": 1
+    },
+    "chester": {
+      "avg": 32988,
+      "top": 32988,
+      "locs": 1
+    },
+    "chesterfield": {
+      "avg": 9820,
+      "top": 9820,
+      "locs": 1
+    },
+    "chicago heights": {
+      "avg": 37398,
+      "top": 37398,
+      "locs": 1
+    },
+    "chicago ridge": {
+      "avg": 27971,
+      "top": 27971,
+      "locs": 1
+    },
+    "chillicothe": {
+      "avg": 22758,
+      "top": 22758,
+      "locs": 1
+    },
+    "chrisman": {
+      "avg": 2237,
+      "top": 2237,
+      "locs": 1
+    },
+    "christian county": {
+      "avg": 7941,
+      "top": 7941,
+      "locs": 1
+    },
+    "christopher": {
+      "avg": 18809,
+      "top": 18809,
+      "locs": 1
+    },
+    "cicero": {
+      "avg": 40439,
+      "top": 40439,
+      "locs": 1
+    },
+    "cisne": {
+      "avg": 19990,
+      "top": 19990,
+      "locs": 1
+    },
+    "cissna park": {
+      "avg": 9779,
+      "top": 9779,
+      "locs": 1
+    },
+    "claremont": {
+      "avg": 5634,
+      "top": 5634,
+      "locs": 1
+    },
+    "clark county": {
+      "avg": 6666,
+      "top": 6666,
+      "locs": 1
+    },
+    "clay city": {
+      "avg": 10217,
+      "top": 10217,
+      "locs": 1
+    },
+    "clay county": {
+      "avg": 10248,
+      "top": 10248,
+      "locs": 1
+    },
+    "clayton": {
+      "avg": 6715,
+      "top": 6715,
+      "locs": 1
+    },
+    "clifton": {
+      "avg": 7223,
+      "top": 7223,
+      "locs": 1
+    },
+    "clinton": {
+      "avg": 35531,
+      "top": 35531,
+      "locs": 1
+    },
+    "clinton county": {
+      "avg": 23742,
+      "top": 23742,
+      "locs": 1
+    },
+    "coal city": {
+      "avg": 21158,
+      "top": 21158,
+      "locs": 1
+    },
+    "coal valley": {
+      "avg": 13001,
+      "top": 13001,
+      "locs": 1
+    },
+    "coalton": {
+      "avg": 4434,
+      "top": 4434,
+      "locs": 1
+    },
+    "cobden": {
+      "avg": 6776,
+      "top": 6776,
+      "locs": 1
+    },
+    "coffeen": {
+      "avg": 8020,
+      "top": 8020,
+      "locs": 1
+    },
+    "colfax": {
+      "avg": 8357,
+      "top": 8357,
+      "locs": 1
+    },
+    "collinsville": {
+      "avg": 35887,
+      "top": 35887,
+      "locs": 1
+    },
+    "colona": {
+      "avg": 17983,
+      "top": 17983,
+      "locs": 1
+    },
+    "colp": {
+      "avg": 15355,
+      "top": 15355,
+      "locs": 1
+    },
+    "columbia": {
+      "avg": 32517,
+      "top": 32517,
+      "locs": 1
+    },
+    "compton": {
+      "avg": 4456,
+      "top": 4456,
+      "locs": 1
+    },
+    "cook county": {
+      "avg": 59765,
+      "top": 59765,
+      "locs": 1
+    },
+    "cordova": {
+      "avg": 5164,
+      "top": 5164,
+      "locs": 1
+    },
+    "cornell": {
+      "avg": 3666,
+      "top": 3666,
+      "locs": 1
+    },
+    "cortland": {
+      "avg": 26267,
+      "top": 26267,
+      "locs": 1
+    },
+    "coulterville": {
+      "avg": 25591,
+      "top": 25591,
+      "locs": 1
+    },
+    "country club hills": {
+      "avg": 19988,
+      "top": 19988,
+      "locs": 1
+    },
+    "countryside": {
+      "avg": 37065,
+      "top": 37065,
+      "locs": 1
+    },
+    "cowden": {
+      "avg": 15128,
+      "top": 15128,
+      "locs": 1
+    },
+    "crawford county": {
+      "avg": 12425,
+      "top": 12425,
+      "locs": 1
+    },
+    "creal springs": {
+      "avg": 8887,
+      "top": 8887,
+      "locs": 1
+    },
+    "crescent city": {
+      "avg": 8234,
+      "top": 8234,
+      "locs": 1
+    },
+    "crest hill": {
+      "avg": 37086,
+      "top": 37086,
+      "locs": 1
+    },
+    "creston": {
+      "avg": 12147,
+      "top": 12147,
+      "locs": 1
+    },
+    "crestwood": {
+      "avg": 35262,
+      "top": 35262,
+      "locs": 1
+    },
+    "crete": {
+      "avg": 28775,
+      "top": 28775,
+      "locs": 1
+    },
+    "creve coeur": {
+      "avg": 32948,
+      "top": 32948,
+      "locs": 1
+    },
+    "crossville": {
+      "avg": 11028,
+      "top": 11028,
+      "locs": 1
+    },
+    "crystal lake": {
+      "avg": 24339,
+      "top": 24339,
+      "locs": 1
+    },
+    "cuba": {
+      "avg": 18859,
+      "top": 18859,
+      "locs": 1
+    },
+    "cullom": {
+      "avg": 7316,
+      "top": 7316,
+      "locs": 1
+    },
+    "cumberland county": {
+      "avg": 12794,
+      "top": 12794,
+      "locs": 1
+    },
+    "curran": {
+      "avg": 7642,
+      "top": 7642,
+      "locs": 1
+    },
+    "cutler": {
+      "avg": 5305,
+      "top": 5305,
+      "locs": 1
+    },
+    "dakota": {
+      "avg": 24484,
+      "top": 24484,
+      "locs": 1
+    },
+    "dallas city": {
+      "avg": 6501,
+      "top": 6501,
+      "locs": 1
+    },
+    "dalton city": {
+      "avg": 19644,
+      "top": 19644,
+      "locs": 1
+    },
+    "damiansville": {
+      "avg": 21611,
+      "top": 21611,
+      "locs": 1
+    },
+    "danvers": {
+      "avg": 14662,
+      "top": 14662,
+      "locs": 1
+    },
+    "danville": {
+      "avg": 30559,
+      "top": 30559,
+      "locs": 1
+    },
+    "darien": {
+      "avg": 45713,
+      "top": 45713,
+      "locs": 1
+    },
+    "davis": {
+      "avg": 11524,
+      "top": 11524,
+      "locs": 1
+    },
+    "davis junction": {
+      "avg": 30703,
+      "top": 30703,
+      "locs": 1
+    },
+    "dawson": {
+      "avg": 29490,
+      "top": 29490,
+      "locs": 1
+    },
+    "de witt": {
+      "avg": 27351,
+      "top": 27351,
+      "locs": 1
+    },
+    "decatur": {
+      "avg": 46834,
+      "top": 46834,
+      "locs": 1
+    },
+    "deer creek": {
+      "avg": 19984,
+      "top": 19984,
+      "locs": 1
+    },
+    "dekalb": {
+      "avg": 37782,
+      "top": 37782,
+      "locs": 1
+    },
+    "deland": {
+      "avg": 5787,
+      "top": 5787,
+      "locs": 1
+    },
+    "delavan": {
+      "avg": 16135,
+      "top": 16135,
+      "locs": 1
+    },
+    "depue": {
+      "avg": 8122,
+      "top": 8122,
+      "locs": 1
+    },
+    "des plaines": {
+      "avg": 10052,
+      "top": 10052,
+      "locs": 1
+    },
+    "diamond": {
+      "avg": 46632,
+      "top": 46632,
+      "locs": 1
+    },
+    "dieterich": {
+      "avg": 14027,
+      "top": 14027,
+      "locs": 1
+    },
+    "divernon": {
+      "avg": 31647,
+      "top": 31647,
+      "locs": 1
+    },
+    "dix": {
+      "avg": 32406,
+      "top": 32406,
+      "locs": 1
+    },
+    "dixmoor": {
+      "avg": 18252,
+      "top": 18252,
+      "locs": 1
+    },
+    "dixon": {
+      "avg": 34947,
+      "top": 34947,
+      "locs": 1
+    },
+    "dolton": {
+      "avg": 33037,
+      "top": 33037,
+      "locs": 1
+    },
+    "dongola": {
+      "avg": 17011,
+      "top": 17011,
+      "locs": 1
+    },
+    "donnellson": {
+      "avg": 24239,
+      "top": 24239,
+      "locs": 1
+    },
+    "douglas county": {
+      "avg": 7217,
+      "top": 7217,
+      "locs": 1
+    },
+    "dowell": {
+      "avg": 44671,
+      "top": 44671,
+      "locs": 1
+    },
+    "downers grove": {
+      "avg": 50921,
+      "top": 50921,
+      "locs": 1
+    },
+    "downs": {
+      "avg": 32134,
+      "top": 32134,
+      "locs": 1
+    },
+    "du bois": {
+      "avg": 5935,
+      "top": 5935,
+      "locs": 1
+    },
+    "du quoin": {
+      "avg": 27758,
+      "top": 27758,
+      "locs": 1
+    },
+    "dunlap": {
+      "avg": 10943,
+      "top": 10943,
+      "locs": 1
+    },
+    "dupage county": {
+      "avg": 48197,
+      "top": 48197,
+      "locs": 1
+    },
+    "dupo": {
+      "avg": 27434,
+      "top": 27434,
+      "locs": 1
+    },
+    "durand": {
+      "avg": 19453,
+      "top": 19453,
+      "locs": 1
+    },
+    "dwight": {
+      "avg": 23870,
+      "top": 23870,
+      "locs": 1
+    },
+    "earlville": {
+      "avg": 23731,
+      "top": 23731,
+      "locs": 1
+    },
+    "east alton": {
+      "avg": 23740,
+      "top": 23740,
+      "locs": 1
+    },
+    "east brooklyn": {
+      "avg": 18935,
+      "top": 18935,
+      "locs": 1
+    },
+    "east dubuque": {
+      "avg": 26499,
+      "top": 26499,
+      "locs": 1
+    },
+    "east dundee": {
+      "avg": 33320,
+      "top": 33320,
+      "locs": 1
+    },
+    "east galesburg": {
+      "avg": 12118,
+      "top": 12118,
+      "locs": 1
+    },
+    "east gillespie": {
+      "avg": 19203,
+      "top": 19203,
+      "locs": 1
+    },
+    "east hazel crest": {
+      "avg": 30831,
+      "top": 30831,
+      "locs": 1
+    },
+    "east moline": {
+      "avg": 27873,
+      "top": 27873,
+      "locs": 1
+    },
+    "east peoria": {
+      "avg": 26225,
+      "top": 26225,
+      "locs": 1
+    },
+    "easton": {
+      "avg": 19322,
+      "top": 19322,
+      "locs": 1
+    },
+    "eddyville": {
+      "avg": 7912,
+      "top": 7912,
+      "locs": 1
+    },
+    "edgar county": {
+      "avg": 19958,
+      "top": 19958,
+      "locs": 1
+    },
+    "edgewood": {
+      "avg": 15056,
+      "top": 15056,
+      "locs": 1
+    },
+    "edinburg": {
+      "avg": 13299,
+      "top": 13299,
+      "locs": 1
+    },
+    "edwardsville": {
+      "avg": 39044,
+      "top": 39044,
+      "locs": 1
+    },
+    "effingham": {
+      "avg": 35143,
+      "top": 35143,
+      "locs": 1
+    },
+    "effingham county": {
+      "avg": 22492,
+      "top": 22492,
+      "locs": 1
+    },
+    "el paso": {
+      "avg": 22322,
+      "top": 22322,
+      "locs": 1
+    },
+    "elburn": {
+      "avg": 34603,
+      "top": 34603,
+      "locs": 1
+    },
+    "eldorado": {
+      "avg": 28350,
+      "top": 28350,
+      "locs": 1
+    },
+    "eldred": {
+      "avg": 12812,
+      "top": 12812,
+      "locs": 1
+    },
+    "elgin": {
+      "avg": 35220,
+      "top": 35220,
+      "locs": 1
+    },
+    "elizabeth": {
+      "avg": 5302,
+      "top": 5302,
+      "locs": 1
+    },
+    "elizabethtown": {
+      "avg": 8948,
+      "top": 8948,
+      "locs": 1
+    },
+    "elk grove village": {
+      "avg": 57230,
+      "top": 57230,
+      "locs": 1
+    },
+    "elkhart": {
+      "avg": 11495,
+      "top": 11495,
+      "locs": 1
+    },
+    "elkville": {
+      "avg": 24801,
+      "top": 24801,
+      "locs": 1
+    },
+    "elmwood": {
+      "avg": 16446,
+      "top": 16446,
+      "locs": 1
+    },
+    "elmwood park": {
+      "avg": 47984,
+      "top": 47984,
+      "locs": 1
+    },
+    "elwood": {
+      "avg": 27691,
+      "top": 27691,
+      "locs": 1
+    },
+    "emden": {
+      "avg": 15789,
+      "top": 15789,
+      "locs": 1
+    },
+    "energy": {
+      "avg": 45808,
+      "top": 45808,
+      "locs": 1
+    },
+    "enfield": {
+      "avg": 4464,
+      "top": 4464,
+      "locs": 1
+    },
+    "erie": {
+      "avg": 14473,
+      "top": 14473,
+      "locs": 1
+    },
+    "essex": {
+      "avg": 28084,
+      "top": 28084,
+      "locs": 1
+    },
+    "evansville": {
+      "avg": 16644,
+      "top": 16644,
+      "locs": 1
+    },
+    "evergreen park": {
+      "avg": 40964,
+      "top": 40964,
+      "locs": 1
+    },
+    "fairbury": {
+      "avg": 13107,
+      "top": 13107,
+      "locs": 1
+    },
+    "fairfield": {
+      "avg": 34177,
+      "top": 34177,
+      "locs": 1
+    },
+    "fairmont city": {
+      "avg": 20268,
+      "top": 20268,
+      "locs": 1
+    },
+    "fairview": {
+      "avg": 38785,
+      "top": 38785,
+      "locs": 1
+    },
+    "fairview heights": {
+      "avg": 40148,
+      "top": 40148,
+      "locs": 1
+    },
+    "farina": {
+      "avg": 44048,
+      "top": 44048,
+      "locs": 1
+    },
+    "farmer city": {
+      "avg": 25798,
+      "top": 25798,
+      "locs": 1
+    },
+    "farmersville": {
+      "avg": 65349,
+      "top": 65349,
+      "locs": 1
+    },
+    "farmington": {
+      "avg": 20993,
+      "top": 20993,
+      "locs": 1
+    },
+    "fayette county": {
+      "avg": 20240,
+      "top": 20240,
+      "locs": 1
+    },
+    "fayetteville": {
+      "avg": 2874,
+      "top": 2874,
+      "locs": 1
+    },
+    "fieldon": {
+      "avg": 8273,
+      "top": 8273,
+      "locs": 1
+    },
+    "fillmore": {
+      "avg": 18801,
+      "top": 18801,
+      "locs": 1
+    },
+    "findlay": {
+      "avg": 11994,
+      "top": 11994,
+      "locs": 1
+    },
+    "fisher": {
+      "avg": 26727,
+      "top": 26727,
+      "locs": 1
+    },
+    "fithian": {
+      "avg": 14733,
+      "top": 14733,
+      "locs": 1
+    },
+    "flanagan": {
+      "avg": 24697,
+      "top": 24697,
+      "locs": 1
+    },
+    "flora": {
+      "avg": 27557,
+      "top": 27557,
+      "locs": 1
+    },
+    "florence": {
+      "avg": 11332,
+      "top": 11332,
+      "locs": 1
+    },
+    "flossmoor": {
+      "avg": 17050,
+      "top": 17050,
+      "locs": 1
+    },
+    "ford heights": {
+      "avg": 37528,
+      "top": 37528,
+      "locs": 1
+    },
+    "forest city": {
+      "avg": 6899,
+      "top": 6899,
+      "locs": 1
+    },
+    "forest view": {
+      "avg": 79026,
+      "top": 79026,
+      "locs": 1
+    },
+    "forrest": {
+      "avg": 14059,
+      "top": 14059,
+      "locs": 1
+    },
+    "forreston": {
+      "avg": 14388,
+      "top": 14388,
+      "locs": 1
+    },
+    "fox lake": {
+      "avg": 24914,
+      "top": 24914,
+      "locs": 1
+    },
+    "fox river grove": {
+      "avg": 31623,
+      "top": 31623,
+      "locs": 1
+    },
+    "franklin": {
+      "avg": 11550,
+      "top": 11550,
+      "locs": 1
+    },
+    "franklin county": {
+      "avg": 7374,
+      "top": 7374,
+      "locs": 1
+    },
+    "franklin grove": {
+      "avg": 18360,
+      "top": 18360,
+      "locs": 1
+    },
+    "franklin park": {
+      "avg": 17497,
+      "top": 17497,
+      "locs": 1
+    },
+    "freeburg": {
+      "avg": 31888,
+      "top": 31888,
+      "locs": 1
+    },
+    "freeport": {
+      "avg": 32406,
+      "top": 32406,
+      "locs": 1
+    },
+    "fulton": {
+      "avg": 38142,
+      "top": 38142,
+      "locs": 1
+    },
+    "fulton county": {
+      "avg": 20693,
+      "top": 20693,
+      "locs": 1
+    },
+    "galena": {
+      "avg": 18795,
+      "top": 18795,
+      "locs": 1
+    },
+    "galesburg": {
+      "avg": 33518,
+      "top": 33518,
+      "locs": 1
+    },
+    "gallatin county": {
+      "avg": 628,
+      "top": 628,
+      "locs": 1
+    },
+    "galva": {
+      "avg": 15007,
+      "top": 15007,
+      "locs": 1
+    },
+    "gardner": {
+      "avg": 13702,
+      "top": 13702,
+      "locs": 1
+    },
+    "geneseo": {
+      "avg": 28121,
+      "top": 28121,
+      "locs": 1
+    },
+    "genoa": {
+      "avg": 17613,
+      "top": 17613,
+      "locs": 1
+    },
+    "georgetown": {
+      "avg": 24116,
+      "top": 24116,
+      "locs": 1
+    },
+    "german valley": {
+      "avg": 21256,
+      "top": 21256,
+      "locs": 1
+    },
+    "germantown": {
+      "avg": 18243,
+      "top": 18243,
+      "locs": 1
+    },
+    "germantown hills": {
+      "avg": 19026,
+      "top": 19026,
+      "locs": 1
+    },
+    "gibson city": {
+      "avg": 28842,
+      "top": 28842,
+      "locs": 1
+    },
+    "gifford": {
+      "avg": 20711,
+      "top": 20711,
+      "locs": 1
+    },
+    "gilberts": {
+      "avg": 43921,
+      "top": 43921,
+      "locs": 1
+    },
+    "gillespie": {
+      "avg": 17121,
+      "top": 17121,
+      "locs": 1
+    },
+    "gilman": {
+      "avg": 19425,
+      "top": 19425,
+      "locs": 1
+    },
+    "girard": {
+      "avg": 25594,
+      "top": 25594,
+      "locs": 1
+    },
+    "glasford": {
+      "avg": 14999,
+      "top": 14999,
+      "locs": 1
+    },
+    "glasgow": {
+      "avg": 13985,
+      "top": 13985,
+      "locs": 1
+    },
+    "glen carbon": {
+      "avg": 17592,
+      "top": 17592,
+      "locs": 1
+    },
+    "glendale heights": {
+      "avg": 41645,
+      "top": 41645,
+      "locs": 1
+    },
+    "glenwood": {
+      "avg": 34015,
+      "top": 34015,
+      "locs": 1
+    },
+    "godfrey": {
+      "avg": 31848,
+      "top": 31848,
+      "locs": 1
+    },
+    "godley": {
+      "avg": 36124,
+      "top": 36124,
+      "locs": 1
+    },
+    "golconda": {
+      "avg": 16708,
+      "top": 16708,
+      "locs": 1
+    },
+    "golden": {
+      "avg": 24664,
+      "top": 24664,
+      "locs": 1
+    },
+    "goreville": {
+      "avg": 35549,
+      "top": 35549,
+      "locs": 1
+    },
+    "grafton": {
+      "avg": 7192,
+      "top": 7192,
+      "locs": 1
+    },
+    "grand tower": {
+      "avg": 5577,
+      "top": 5577,
+      "locs": 1
+    },
+    "grandview": {
+      "avg": 28231,
+      "top": 28231,
+      "locs": 1
+    },
+    "granite city": {
+      "avg": 26665,
+      "top": 26665,
+      "locs": 1
+    },
+    "grant park": {
+      "avg": 11090,
+      "top": 11090,
+      "locs": 1
+    },
+    "grantfork": {
+      "avg": 9676,
+      "top": 9676,
+      "locs": 1
+    },
+    "granville": {
+      "avg": 10528,
+      "top": 10528,
+      "locs": 1
+    },
+    "grayville": {
+      "avg": 25991,
+      "top": 25991,
+      "locs": 1
+    },
+    "green oaks": {
+      "avg": 62697,
+      "top": 62697,
+      "locs": 1
+    },
+    "green valley": {
+      "avg": 26664,
+      "top": 26664,
+      "locs": 1
+    },
+    "greene county": {
+      "avg": 5317,
+      "top": 5317,
+      "locs": 1
+    },
+    "greenfield": {
+      "avg": 26312,
+      "top": 26312,
+      "locs": 1
+    },
+    "greenup": {
+      "avg": 23431,
+      "top": 23431,
+      "locs": 1
+    },
+    "greenview": {
+      "avg": 14892,
+      "top": 14892,
+      "locs": 1
+    },
+    "greenville": {
+      "avg": 30038,
+      "top": 30038,
+      "locs": 1
+    },
+    "gridley": {
+      "avg": 32261,
+      "top": 32261,
+      "locs": 1
+    },
+    "griggsville": {
+      "avg": 12220,
+      "top": 12220,
+      "locs": 1
+    },
+    "grundy county": {
+      "avg": 22881,
+      "top": 22881,
+      "locs": 1
+    },
+    "gulfport": {
+      "avg": 21692,
+      "top": 21692,
+      "locs": 1
+    },
+    "hamel": {
+      "avg": 29519,
+      "top": 29519,
+      "locs": 1
+    },
+    "hamilton": {
+      "avg": 34163,
+      "top": 34163,
+      "locs": 1
+    },
+    "hamilton county": {
+      "avg": 19256,
+      "top": 19256,
+      "locs": 1
+    },
+    "hampshire": {
+      "avg": 28405,
+      "top": 28405,
+      "locs": 1
+    },
+    "hampton": {
+      "avg": 18509,
+      "top": 18509,
+      "locs": 1
+    },
+    "hanaford": {
+      "avg": 5160,
+      "top": 5160,
+      "locs": 1
+    },
+    "hancock county": {
+      "avg": 25226,
+      "top": 25226,
+      "locs": 1
+    },
+    "hanna city": {
+      "avg": 23638,
+      "top": 23638,
+      "locs": 1
+    },
+    "hanover": {
+      "avg": 14180,
+      "top": 14180,
+      "locs": 1
+    },
+    "hanover park": {
+      "avg": 53930,
+      "top": 53930,
+      "locs": 1
+    },
+    "hardin": {
+      "avg": 9239,
+      "top": 9239,
+      "locs": 1
+    },
+    "harmon": {
+      "avg": 37054,
+      "top": 37054,
+      "locs": 1
+    },
+    "harrisburg": {
+      "avg": 26627,
+      "top": 26627,
+      "locs": 1
+    },
+    "harristown": {
+      "avg": 40813,
+      "top": 40813,
+      "locs": 1
+    },
+    "hartford": {
+      "avg": 17768,
+      "top": 17768,
+      "locs": 1
+    },
+    "harvard": {
+      "avg": 21693,
+      "top": 21693,
+      "locs": 1
+    },
+    "harvey": {
+      "avg": 32044,
+      "top": 32044,
+      "locs": 1
+    },
+    "harwood heights": {
+      "avg": 57321,
+      "top": 57321,
+      "locs": 1
+    },
+    "havana": {
+      "avg": 18896,
+      "top": 18896,
+      "locs": 1
+    },
+    "hazel crest": {
+      "avg": 21092,
+      "top": 21092,
+      "locs": 1
+    },
+    "hebron": {
+      "avg": 39679,
+      "top": 39679,
+      "locs": 1
+    },
+    "hecker": {
+      "avg": 9055,
+      "top": 9055,
+      "locs": 1
+    },
+    "henderson county": {
+      "avg": 30667,
+      "top": 30667,
+      "locs": 1
+    },
+    "hennepin": {
+      "avg": 12942,
+      "top": 12942,
+      "locs": 1
+    },
+    "henry": {
+      "avg": 19309,
+      "top": 19309,
+      "locs": 1
+    },
+    "henry county": {
+      "avg": 7625,
+      "top": 7625,
+      "locs": 1
+    },
+    "herrin": {
+      "avg": 21062,
+      "top": 21062,
+      "locs": 1
+    },
+    "herscher": {
+      "avg": 12641,
+      "top": 12641,
+      "locs": 1
+    },
+    "heyworth": {
+      "avg": 29854,
+      "top": 29854,
+      "locs": 1
+    },
+    "hickory hills": {
+      "avg": 55125,
+      "top": 55125,
+      "locs": 1
+    },
+    "highland": {
+      "avg": 30661,
+      "top": 30661,
+      "locs": 1
+    },
+    "hillcrest": {
+      "avg": 65899,
+      "top": 65899,
+      "locs": 1
+    },
+    "hillsboro": {
+      "avg": 27358,
+      "top": 27358,
+      "locs": 1
+    },
+    "hillsdale": {
+      "avg": 36374,
+      "top": 36374,
+      "locs": 1
+    },
+    "hillside": {
+      "avg": 31453,
+      "top": 31453,
+      "locs": 1
+    },
+    "hillview": {
+      "avg": 28044,
+      "top": 28044,
+      "locs": 1
+    },
+    "hinckley": {
+      "avg": 30398,
+      "top": 30398,
+      "locs": 1
+    },
+    "hindsboro": {
+      "avg": 8503,
+      "top": 8503,
+      "locs": 1
+    },
+    "hodgkins": {
+      "avg": 37775,
+      "top": 37775,
+      "locs": 1
+    },
+    "hoffman": {
+      "avg": 722,
+      "top": 722,
+      "locs": 1
+    },
+    "hoffman estates": {
+      "avg": 40734,
+      "top": 40734,
+      "locs": 1
+    },
+    "hollowayville": {
+      "avg": 11384,
+      "top": 11384,
+      "locs": 1
+    },
+    "homer glen": {
+      "avg": 52143,
+      "top": 52143,
+      "locs": 1
+    },
+    "hometown": {
+      "avg": 80896,
+      "top": 80896,
+      "locs": 1
+    },
+    "homewood": {
+      "avg": 18536,
+      "top": 18536,
+      "locs": 1
+    },
+    "hoopeston": {
+      "avg": 32994,
+      "top": 32994,
+      "locs": 1
+    },
+    "hopedale": {
+      "avg": 4425,
+      "top": 4425,
+      "locs": 1
+    },
+    "hopkins park": {
+      "avg": 9988,
+      "top": 9988,
+      "locs": 1
+    },
+    "hoyleton": {
+      "avg": 27850,
+      "top": 27850,
+      "locs": 1
+    },
+    "hudson": {
+      "avg": 11909,
+      "top": 11909,
+      "locs": 1
+    },
+    "humboldt": {
+      "avg": 14300,
+      "top": 14300,
+      "locs": 1
+    },
+    "huntley": {
+      "avg": 33521,
+      "top": 33521,
+      "locs": 1
+    },
+    "hurst": {
+      "avg": 15599,
+      "top": 15599,
+      "locs": 1
+    },
+    "hutsonville": {
+      "avg": 25478,
+      "top": 25478,
+      "locs": 1
+    },
+    "illiopolis": {
+      "avg": 22755,
+      "top": 22755,
+      "locs": 1
+    },
+    "ina": {
+      "avg": 18720,
+      "top": 18720,
+      "locs": 1
+    },
+    "indian head park": {
+      "avg": 49719,
+      "top": 49719,
+      "locs": 1
+    },
+    "industry": {
+      "avg": 6837,
+      "top": 6837,
+      "locs": 1
+    },
+    "ipava": {
+      "avg": 6775,
+      "top": 6775,
+      "locs": 1
+    },
+    "iroquois": {
+      "avg": 3317,
+      "top": 3317,
+      "locs": 1
+    },
+    "iroquois county": {
+      "avg": 17560,
+      "top": 17560,
+      "locs": 1
+    },
+    "irving": {
+      "avg": 12853,
+      "top": 12853,
+      "locs": 1
+    },
+    "irvington": {
+      "avg": 4780,
+      "top": 4780,
+      "locs": 1
+    },
+    "island lake": {
+      "avg": 44642,
+      "top": 44642,
+      "locs": 1
+    },
+    "itasca": {
+      "avg": 55303,
+      "top": 55303,
+      "locs": 1
+    },
+    "ivesdale": {
+      "avg": 14036,
+      "top": 14036,
+      "locs": 1
+    },
+    "jackson county": {
+      "avg": 10371,
+      "top": 10371,
+      "locs": 1
+    },
+    "jacksonville": {
+      "avg": 27438,
+      "top": 27438,
+      "locs": 1
+    },
+    "jasper county": {
+      "avg": 18344,
+      "top": 18344,
+      "locs": 1
+    },
+    "jefferson county": {
+      "avg": 19483,
+      "top": 19483,
+      "locs": 1
+    },
+    "jerome": {
+      "avg": 29174,
+      "top": 29174,
+      "locs": 1
+    },
+    "jersey county": {
+      "avg": 8082,
+      "top": 8082,
+      "locs": 1
+    },
+    "jerseyville": {
+      "avg": 28454,
+      "top": 28454,
+      "locs": 1
+    },
+    "jewett": {
+      "avg": 22358,
+      "top": 22358,
+      "locs": 1
+    },
+    "jo daviess county": {
+      "avg": 2232,
+      "top": 2232,
+      "locs": 1
+    },
+    "johnsburg": {
+      "avg": 31872,
+      "top": 31872,
+      "locs": 1
+    },
+    "johnson county": {
+      "avg": 10653,
+      "top": 10653,
+      "locs": 1
+    },
+    "johnston city": {
+      "avg": 23837,
+      "top": 23837,
+      "locs": 1
+    },
+    "joliet": {
+      "avg": 34234,
+      "top": 34234,
+      "locs": 1
+    },
+    "jonesboro": {
+      "avg": 38269,
+      "top": 38269,
+      "locs": 1
+    },
+    "joy": {
+      "avg": 7015,
+      "top": 7015,
+      "locs": 1
+    },
+    "junction city": {
+      "avg": 6588,
+      "top": 6588,
+      "locs": 1
+    },
+    "justice": {
+      "avg": 27348,
+      "top": 27348,
+      "locs": 1
+    },
+    "kampsville": {
+      "avg": 9127,
+      "top": 9127,
+      "locs": 1
+    },
+    "kane": {
+      "avg": 13199,
+      "top": 13199,
+      "locs": 1
+    },
+    "kane county": {
+      "avg": 38138,
+      "top": 38138,
+      "locs": 1
+    },
+    "kangley": {
+      "avg": 16235,
+      "top": 16235,
+      "locs": 1
+    },
+    "kankakee": {
+      "avg": 29007,
+      "top": 29007,
+      "locs": 1
+    },
+    "kankakee county": {
+      "avg": 23961,
+      "top": 23961,
+      "locs": 1
+    },
+    "kappa": {
+      "avg": 21338,
+      "top": 21338,
+      "locs": 1
+    },
+    "keithsburg": {
+      "avg": 17727,
+      "top": 17727,
+      "locs": 1
+    },
+    "kempton": {
+      "avg": 14090,
+      "top": 14090,
+      "locs": 1
+    },
+    "kendall county": {
+      "avg": 31601,
+      "top": 31601,
+      "locs": 1
+    },
+    "kewanee": {
+      "avg": 26641,
+      "top": 26641,
+      "locs": 1
+    },
+    "keyesport": {
+      "avg": 15880,
+      "top": 15880,
+      "locs": 1
+    },
+    "kilbourne": {
+      "avg": 11068,
+      "top": 11068,
+      "locs": 1
+    },
+    "kildeer": {
+      "avg": 95570,
+      "top": 95570,
+      "locs": 1
+    },
+    "kincaid": {
+      "avg": 12810,
+      "top": 12810,
+      "locs": 1
+    },
+    "kingston": {
+      "avg": 16244,
+      "top": 16244,
+      "locs": 1
+    },
+    "kingston mines": {
+      "avg": 8266,
+      "top": 8266,
+      "locs": 1
+    },
+    "kinmundy": {
+      "avg": 9068,
+      "top": 9068,
+      "locs": 1
+    },
+    "kinsman": {
+      "avg": 5484,
+      "top": 5484,
+      "locs": 1
+    },
+    "kirkland": {
+      "avg": 22928,
+      "top": 22928,
+      "locs": 1
+    },
+    "kirkwood": {
+      "avg": 16768,
+      "top": 16768,
+      "locs": 1
+    },
+    "knox county": {
+      "avg": 22727,
+      "top": 22727,
+      "locs": 1
+    },
+    "knoxville": {
+      "avg": 36346,
+      "top": 36346,
+      "locs": 1
+    },
+    "la harpe": {
+      "avg": 4158,
+      "top": 4158,
+      "locs": 1
+    },
+    "la salle": {
+      "avg": 19200,
+      "top": 19200,
+      "locs": 1
+    },
+    "la salle county": {
+      "avg": 16472,
+      "top": 16472,
+      "locs": 1
+    },
+    "lacon": {
+      "avg": 15475,
+      "top": 15475,
+      "locs": 1
+    },
+    "ladd": {
+      "avg": 12843,
+      "top": 12843,
+      "locs": 1
+    },
+    "lake county": {
+      "avg": 29384,
+      "top": 29384,
+      "locs": 1
+    },
+    "lake in the hills": {
+      "avg": 54440,
+      "top": 54440,
+      "locs": 1
+    },
+    "lake villa": {
+      "avg": 38499,
+      "top": 38499,
+      "locs": 1
+    },
+    "lake zurich": {
+      "avg": 35090,
+      "top": 35090,
+      "locs": 1
+    },
+    "lakemoor": {
+      "avg": 29767,
+      "top": 29767,
+      "locs": 1
+    },
+    "lamoille": {
+      "avg": 9732,
+      "top": 9732,
+      "locs": 1
+    },
+    "lanark": {
+      "avg": 15475,
+      "top": 15475,
+      "locs": 1
+    },
+    "lansing": {
+      "avg": 36437,
+      "top": 36437,
+      "locs": 1
+    },
+    "lawrence county": {
+      "avg": 46770,
+      "top": 46770,
+      "locs": 1
+    },
+    "lawrenceville": {
+      "avg": 20239,
+      "top": 20239,
+      "locs": 1
+    },
+    "leaf river": {
+      "avg": 11688,
+      "top": 11688,
+      "locs": 1
+    },
+    "lebanon": {
+      "avg": 25408,
+      "top": 25408,
+      "locs": 1
+    },
+    "lee county": {
+      "avg": 12373,
+      "top": 12373,
+      "locs": 1
+    },
+    "leland": {
+      "avg": 20504,
+      "top": 20504,
+      "locs": 1
+    },
+    "lemont": {
+      "avg": 40049,
+      "top": 40049,
+      "locs": 1
+    },
+    "lena": {
+      "avg": 17715,
+      "top": 17715,
+      "locs": 1
+    },
+    "lenzburg": {
+      "avg": 39666,
+      "top": 39666,
+      "locs": 1
+    },
+    "leonore": {
+      "avg": 4389,
+      "top": 4389,
+      "locs": 1
+    },
+    "leroy": {
+      "avg": 27670,
+      "top": 27670,
+      "locs": 1
+    },
+    "lewistown": {
+      "avg": 18010,
+      "top": 18010,
+      "locs": 1
+    },
+    "lexington": {
+      "avg": 15042,
+      "top": 15042,
+      "locs": 1
+    },
+    "liberty": {
+      "avg": 16276,
+      "top": 16276,
+      "locs": 1
+    },
+    "lily lake": {
+      "avg": 99987,
+      "top": 99987,
+      "locs": 1
+    },
+    "limestone": {
+      "avg": 16754,
+      "top": 16754,
+      "locs": 1
+    },
+    "lincoln": {
+      "avg": 25437,
+      "top": 25437,
+      "locs": 1
+    },
+    "lindenhurst": {
+      "avg": 28903,
+      "top": 28903,
+      "locs": 1
+    },
+    "litchfield": {
+      "avg": 31160,
+      "top": 31160,
+      "locs": 1
+    },
+    "livingston": {
+      "avg": 15975,
+      "top": 15975,
+      "locs": 1
+    },
+    "livingston county": {
+      "avg": 14135,
+      "top": 14135,
+      "locs": 1
+    },
+    "loami": {
+      "avg": 23530,
+      "top": 23530,
+      "locs": 1
+    },
+    "lockport": {
+      "avg": 47884,
+      "top": 47884,
+      "locs": 1
+    },
+    "loda": {
+      "avg": 10154,
+      "top": 10154,
+      "locs": 1
+    },
+    "logan county": {
+      "avg": 20823,
+      "top": 20823,
+      "locs": 1
+    },
+    "lomax": {
+      "avg": 9347,
+      "top": 9347,
+      "locs": 1
+    },
+    "lombard": {
+      "avg": 33381,
+      "top": 33381,
+      "locs": 1
+    },
+    "london mills": {
+      "avg": 9594,
+      "top": 9594,
+      "locs": 1
+    },
+    "long creek": {
+      "avg": 47652,
+      "top": 47652,
+      "locs": 1
+    },
+    "long grove": {
+      "avg": 7715,
+      "top": 7715,
+      "locs": 1
+    },
+    "long point": {
+      "avg": 2573,
+      "top": 2573,
+      "locs": 1
+    },
+    "loraine": {
+      "avg": 13180,
+      "top": 13180,
+      "locs": 1
+    },
+    "lostant": {
+      "avg": 2872,
+      "top": 2872,
+      "locs": 1
+    },
+    "louisville": {
+      "avg": 17329,
+      "top": 17329,
+      "locs": 1
+    },
+    "loves park": {
+      "avg": 31843,
+      "top": 31843,
+      "locs": 1
+    },
+    "lovington": {
+      "avg": 27214,
+      "top": 27214,
+      "locs": 1
+    },
+    "ludlow": {
+      "avg": 23041,
+      "top": 23041,
+      "locs": 1
+    },
+    "lyndon": {
+      "avg": 17791,
+      "top": 17791,
+      "locs": 1
+    },
+    "lynwood": {
+      "avg": 44266,
+      "top": 44266,
+      "locs": 1
+    },
+    "lyons": {
+      "avg": 33167,
+      "top": 33167,
+      "locs": 1
+    },
+    "machesney park": {
+      "avg": 29765,
+      "top": 29765,
+      "locs": 1
+    },
+    "mackinaw": {
+      "avg": 23114,
+      "top": 23114,
+      "locs": 1
+    },
+    "macomb": {
+      "avg": 16870,
+      "top": 16870,
+      "locs": 1
+    },
+    "macon": {
+      "avg": 29485,
+      "top": 29485,
+      "locs": 1
+    },
+    "macon county": {
+      "avg": 44020,
+      "top": 44020,
+      "locs": 1
+    },
+    "macoupin county": {
+      "avg": 11530,
+      "top": 11530,
+      "locs": 1
+    },
+    "madison": {
+      "avg": 31929,
+      "top": 31929,
+      "locs": 1
+    },
+    "madison county": {
+      "avg": 30406,
+      "top": 30406,
+      "locs": 1
+    },
+    "mahomet": {
+      "avg": 29784,
+      "top": 29784,
+      "locs": 1
+    },
+    "malta": {
+      "avg": 32816,
+      "top": 32816,
+      "locs": 1
+    },
+    "manhattan": {
+      "avg": 34505,
+      "top": 34505,
+      "locs": 1
+    },
+    "manito": {
+      "avg": 19876,
+      "top": 19876,
+      "locs": 1
+    },
+    "mansfield": {
+      "avg": 11317,
+      "top": 11317,
+      "locs": 1
+    },
+    "manteno": {
+      "avg": 39198,
+      "top": 39198,
+      "locs": 1
+    },
+    "maple park": {
+      "avg": 26314,
+      "top": 26314,
+      "locs": 1
+    },
+    "mapleton": {
+      "avg": 39687,
+      "top": 39687,
+      "locs": 1
+    },
+    "maquon": {
+      "avg": 8704,
+      "top": 8704,
+      "locs": 1
+    },
+    "marengo": {
+      "avg": 25190,
+      "top": 25190,
+      "locs": 1
+    },
+    "marietta": {
+      "avg": 15684,
+      "top": 15684,
+      "locs": 1
+    },
+    "marine": {
+      "avg": 30285,
+      "top": 30285,
+      "locs": 1
+    },
+    "marion": {
+      "avg": 28463,
+      "top": 28463,
+      "locs": 1
+    },
+    "marion county": {
+      "avg": 26515,
+      "top": 26515,
+      "locs": 1
+    },
+    "marissa": {
+      "avg": 49061,
+      "top": 49061,
+      "locs": 1
+    },
+    "mark": {
+      "avg": 22363,
+      "top": 22363,
+      "locs": 1
+    },
+    "markham": {
+      "avg": 38751,
+      "top": 38751,
+      "locs": 1
+    },
+    "maroa": {
+      "avg": 23650,
+      "top": 23650,
+      "locs": 1
+    },
+    "marseilles": {
+      "avg": 18432,
+      "top": 18432,
+      "locs": 1
+    },
+    "marshall": {
+      "avg": 42186,
+      "top": 42186,
+      "locs": 1
+    },
+    "martinsville": {
+      "avg": 13096,
+      "top": 13096,
+      "locs": 1
+    },
+    "martinton": {
+      "avg": 11932,
+      "top": 11932,
+      "locs": 1
+    },
+    "maryville": {
+      "avg": 26260,
+      "top": 26260,
+      "locs": 1
+    },
+    "mascoutah": {
+      "avg": 26032,
+      "top": 26032,
+      "locs": 1
+    },
+    "mason city": {
+      "avg": 14528,
+      "top": 14528,
+      "locs": 1
+    },
+    "mason county": {
+      "avg": 13181,
+      "top": 13181,
+      "locs": 1
+    },
+    "massac county": {
+      "avg": 4215,
+      "top": 4215,
+      "locs": 1
+    },
+    "matherville": {
+      "avg": 15262,
+      "top": 15262,
+      "locs": 1
+    },
+    "matteson": {
+      "avg": 25448,
+      "top": 25448,
+      "locs": 1
+    },
+    "mattoon": {
+      "avg": 36288,
+      "top": 36288,
+      "locs": 1
+    },
+    "maywood": {
+      "avg": 43364,
+      "top": 43364,
+      "locs": 1
+    },
+    "mazon": {
+      "avg": 22521,
+      "top": 22521,
+      "locs": 1
+    },
+    "mcclure": {
+      "avg": 18319,
+      "top": 18319,
+      "locs": 1
+    },
+    "mccook": {
+      "avg": 28451,
+      "top": 28451,
+      "locs": 1
+    },
+    "mccullom lake": {
+      "avg": 17974,
+      "top": 17974,
+      "locs": 1
+    },
+    "mcdonough county": {
+      "avg": 6973,
+      "top": 6973,
+      "locs": 1
+    },
+    "mchenry": {
+      "avg": 37263,
+      "top": 37263,
+      "locs": 1
+    },
+    "mchenry county": {
+      "avg": 30570,
+      "top": 30570,
+      "locs": 1
+    },
+    "mclean": {
+      "avg": 28833,
+      "top": 28833,
+      "locs": 1
+    },
+    "mclean county": {
+      "avg": 42815,
+      "top": 42815,
+      "locs": 1
+    },
+    "mcleansboro": {
+      "avg": 27322,
+      "top": 27322,
+      "locs": 1
+    },
+    "mechanicsburg": {
+      "avg": 9738,
+      "top": 9738,
+      "locs": 1
+    },
+    "melrose park": {
+      "avg": 38341,
+      "top": 38341,
+      "locs": 1
+    },
+    "melvin": {
+      "avg": 12994,
+      "top": 12994,
+      "locs": 1
+    },
+    "menard county": {
+      "avg": 26625,
+      "top": 26625,
+      "locs": 1
+    },
+    "mendon": {
+      "avg": 12166,
+      "top": 12166,
+      "locs": 1
+    },
+    "mendota": {
+      "avg": 20896,
+      "top": 20896,
+      "locs": 1
+    },
+    "menominee": {
+      "avg": 12892,
+      "top": 12892,
+      "locs": 1
+    },
+    "meredosia": {
+      "avg": 25916,
+      "top": 25916,
+      "locs": 1
+    },
+    "merrionette park": {
+      "avg": 73440,
+      "top": 73440,
+      "locs": 1
+    },
+    "metamora": {
+      "avg": 22435,
+      "top": 22435,
+      "locs": 1
+    },
+    "metcalf": {
+      "avg": 9937,
+      "top": 9937,
+      "locs": 1
+    },
+    "metropolis": {
+      "avg": 45933,
+      "top": 45933,
+      "locs": 1
+    },
+    "middletown": {
+      "avg": 24544,
+      "top": 24544,
+      "locs": 1
+    },
+    "midlothian": {
+      "avg": 36240,
+      "top": 36240,
+      "locs": 1
+    },
+    "milan": {
+      "avg": 21409,
+      "top": 21409,
+      "locs": 1
+    },
+    "milford": {
+      "avg": 12110,
+      "top": 12110,
+      "locs": 1
+    },
+    "milledgeville": {
+      "avg": 13619,
+      "top": 13619,
+      "locs": 1
+    },
+    "millington": {
+      "avg": 15019,
+      "top": 15019,
+      "locs": 1
+    },
+    "millstadt": {
+      "avg": 28310,
+      "top": 28310,
+      "locs": 1
+    },
+    "mineral": {
+      "avg": 8422,
+      "top": 8422,
+      "locs": 1
+    },
+    "minier": {
+      "avg": 29625,
+      "top": 29625,
+      "locs": 1
+    },
+    "minonk": {
+      "avg": 14185,
+      "top": 14185,
+      "locs": 1
+    },
+    "minooka": {
+      "avg": 19732,
+      "top": 19732,
+      "locs": 1
+    },
+    "mokena": {
+      "avg": 56818,
+      "top": 56818,
+      "locs": 1
+    },
+    "moline": {
+      "avg": 30556,
+      "top": 30556,
+      "locs": 1
+    },
+    "momence": {
+      "avg": 24393,
+      "top": 24393,
+      "locs": 1
+    },
+    "monee": {
+      "avg": 28357,
+      "top": 28357,
+      "locs": 1
+    },
+    "monmouth": {
+      "avg": 29618,
+      "top": 29618,
+      "locs": 1
+    },
+    "monroe center": {
+      "avg": 16815,
+      "top": 16815,
+      "locs": 1
+    },
+    "monroe county": {
+      "avg": 19753,
+      "top": 19753,
+      "locs": 1
+    },
+    "montgomery": {
+      "avg": 40655,
+      "top": 40655,
+      "locs": 1
+    },
+    "montgomery county": {
+      "avg": 11383,
+      "top": 11383,
+      "locs": 1
+    },
+    "monticello": {
+      "avg": 31575,
+      "top": 31575,
+      "locs": 1
+    },
+    "montrose": {
+      "avg": 19705,
+      "top": 19705,
+      "locs": 1
+    },
+    "morgan county": {
+      "avg": 36907,
+      "top": 36907,
+      "locs": 1
+    },
+    "morris": {
+      "avg": 26590,
+      "top": 26590,
+      "locs": 1
+    },
+    "morrison": {
+      "avg": 23023,
+      "top": 23023,
+      "locs": 1
+    },
+    "morrisonville": {
+      "avg": 20716,
+      "top": 20716,
+      "locs": 1
+    },
+    "morton": {
+      "avg": 6846,
+      "top": 6846,
+      "locs": 1
+    },
+    "morton grove": {
+      "avg": 61653,
+      "top": 61653,
+      "locs": 1
+    },
+    "moultrie county": {
+      "avg": 41998,
+      "top": 41998,
+      "locs": 1
+    },
+    "mound city": {
+      "avg": 23806,
+      "top": 23806,
+      "locs": 1
+    },
+    "mounds": {
+      "avg": 9581,
+      "top": 9581,
+      "locs": 1
+    },
+    "mount auburn": {
+      "avg": 7226,
+      "top": 7226,
+      "locs": 1
+    },
+    "mount carmel": {
+      "avg": 18744,
+      "top": 18744,
+      "locs": 1
+    },
+    "mount carroll": {
+      "avg": 12597,
+      "top": 12597,
+      "locs": 1
+    },
+    "mount clare": {
+      "avg": 49400,
+      "top": 49400,
+      "locs": 1
+    },
+    "mount morris": {
+      "avg": 16164,
+      "top": 16164,
+      "locs": 1
+    },
+    "mount olive": {
+      "avg": 16512,
+      "top": 16512,
+      "locs": 1
+    },
+    "mount prospect": {
+      "avg": 30771,
+      "top": 30771,
+      "locs": 1
+    },
+    "mount pulaski": {
+      "avg": 14400,
+      "top": 14400,
+      "locs": 1
+    },
+    "mount sterling": {
+      "avg": 14558,
+      "top": 14558,
+      "locs": 1
+    },
+    "mount vernon": {
+      "avg": 39902,
+      "top": 39902,
+      "locs": 1
+    },
+    "mount zion": {
+      "avg": 30297,
+      "top": 30297,
+      "locs": 1
+    },
+    "moweaqua": {
+      "avg": 21205,
+      "top": 21205,
+      "locs": 1
+    },
+    "muddy": {
+      "avg": 9967,
+      "top": 9967,
+      "locs": 1
+    },
+    "mulberry grove": {
+      "avg": 16143,
+      "top": 16143,
+      "locs": 1
+    },
+    "mundelein": {
+      "avg": 31305,
+      "top": 31305,
+      "locs": 1
+    },
+    "murphysboro": {
+      "avg": 24421,
+      "top": 24421,
+      "locs": 1
+    },
+    "murrayville": {
+      "avg": 30450,
+      "top": 30450,
+      "locs": 1
+    },
+    "n/a": {
+      "avg": 15556,
+      "top": 15556,
+      "locs": 1
+    },
+    "naplate": {
+      "avg": 19335,
+      "top": 19335,
+      "locs": 1
+    },
+    "naples": {
+      "avg": 946,
+      "top": 946,
+      "locs": 1
+    },
+    "nashville": {
+      "avg": 29944,
+      "top": 29944,
+      "locs": 1
+    },
+    "nason": {
+      "avg": 30457,
+      "top": 30457,
+      "locs": 1
+    },
+    "nebo": {
+      "avg": 27351,
+      "top": 27351,
+      "locs": 1
+    },
+    "nelson": {
+      "avg": 14617,
+      "top": 14617,
+      "locs": 1
+    },
+    "neoga": {
+      "avg": 13121,
+      "top": 13121,
+      "locs": 1
+    },
+    "neponset": {
+      "avg": 13700,
+      "top": 13700,
+      "locs": 1
+    },
+    "new athens": {
+      "avg": 18808,
+      "top": 18808,
+      "locs": 1
+    },
+    "new baden": {
+      "avg": 41245,
+      "top": 41245,
+      "locs": 1
+    },
+    "new berlin": {
+      "avg": 31286,
+      "top": 31286,
+      "locs": 1
+    },
+    "new boston": {
+      "avg": 15704,
+      "top": 15704,
+      "locs": 1
+    },
+    "new canton": {
+      "avg": 21806,
+      "top": 21806,
+      "locs": 1
+    },
+    "new douglas": {
+      "avg": 10419,
+      "top": 10419,
+      "locs": 1
+    },
+    "new holland": {
+      "avg": 2951,
+      "top": 2951,
+      "locs": 1
+    },
+    "new lenox": {
+      "avg": 48102,
+      "top": 48102,
+      "locs": 1
+    },
+    "new millford": {
+      "avg": 23078,
+      "top": 23078,
+      "locs": 1
+    },
+    "new minden": {
+      "avg": 26894,
+      "top": 26894,
+      "locs": 1
+    },
+    "newark": {
+      "avg": 29214,
+      "top": 29214,
+      "locs": 1
+    },
+    "newman": {
+      "avg": 9550,
+      "top": 9550,
+      "locs": 1
+    },
+    "newton": {
+      "avg": 21066,
+      "top": 21066,
+      "locs": 1
+    },
+    "niantic": {
+      "avg": 2384,
+      "top": 2384,
+      "locs": 1
+    },
+    "niles": {
+      "avg": 66364,
+      "top": 66364,
+      "locs": 1
+    },
+    "nokomis": {
+      "avg": 15444,
+      "top": 15444,
+      "locs": 1
+    },
+    "nora": {
+      "avg": 9540,
+      "top": 9540,
+      "locs": 1
+    },
+    "normal": {
+      "avg": 44248,
+      "top": 44248,
+      "locs": 1
+    },
+    "norridge": {
+      "avg": 73709,
+      "top": 73709,
+      "locs": 1
+    },
+    "norris": {
+      "avg": 1126,
+      "top": 1126,
+      "locs": 1
+    },
+    "norris city": {
+      "avg": 16601,
+      "top": 16601,
+      "locs": 1
+    },
+    "north aurora": {
+      "avg": 61166,
+      "top": 61166,
+      "locs": 1
+    },
+    "north chicago": {
+      "avg": 32285,
+      "top": 32285,
+      "locs": 1
+    },
+    "north city": {
+      "avg": 33674,
+      "top": 33674,
+      "locs": 1
+    },
+    "north pekin": {
+      "avg": 24712,
+      "top": 24712,
+      "locs": 1
+    },
+    "north riverside": {
+      "avg": 47171,
+      "top": 47171,
+      "locs": 1
+    },
+    "north utica": {
+      "avg": 12184,
+      "top": 12184,
+      "locs": 1
+    },
+    "northlake": {
+      "avg": 41531,
+      "top": 41531,
+      "locs": 1
+    },
+    "norwood": {
+      "avg": 14289,
+      "top": 14289,
+      "locs": 1
+    },
+    "o'fallon": {
+      "avg": 36767,
+      "top": 36767,
+      "locs": 1
+    },
+    "oak forest": {
+      "avg": 43207,
+      "top": 43207,
+      "locs": 1
+    },
+    "oak grove": {
+      "avg": 43175,
+      "top": 43175,
+      "locs": 1
+    },
+    "oak lawn": {
+      "avg": 44958,
+      "top": 44958,
+      "locs": 1
+    },
+    "oakbrook terrace": {
+      "avg": 58581,
+      "top": 58581,
+      "locs": 1
+    },
+    "oakdale": {
+      "avg": 14198,
+      "top": 14198,
+      "locs": 1
+    },
+    "oakford": {
+      "avg": 10823,
+      "top": 10823,
+      "locs": 1
+    },
+    "oakwood": {
+      "avg": 32253,
+      "top": 32253,
+      "locs": 1
+    },
+    "oakwood hills": {
+      "avg": 3537,
+      "top": 3537,
+      "locs": 1
+    },
+    "oblong": {
+      "avg": 8838,
+      "top": 8838,
+      "locs": 1
+    },
+    "oconee": {
+      "avg": 20510,
+      "top": 20510,
+      "locs": 1
+    },
+    "odell": {
+      "avg": 17635,
+      "top": 17635,
+      "locs": 1
+    },
+    "odin": {
+      "avg": 18024,
+      "top": 18024,
+      "locs": 1
+    },
+    "ogden": {
+      "avg": 25110,
+      "top": 25110,
+      "locs": 1
+    },
+    "ogle county": {
+      "avg": 10822,
+      "top": 10822,
+      "locs": 1
+    },
+    "oglesby": {
+      "avg": 28775,
+      "top": 28775,
+      "locs": 1
+    },
+    "ohio": {
+      "avg": 18931,
+      "top": 18931,
+      "locs": 1
+    },
+    "ohlman": {
+      "avg": 10426,
+      "top": 10426,
+      "locs": 1
+    },
+    "okawville": {
+      "avg": 24261,
+      "top": 24261,
+      "locs": 1
+    },
+    "old shawneetown": {
+      "avg": 17515,
+      "top": 17515,
+      "locs": 1
+    },
+    "olney": {
+      "avg": 30828,
+      "top": 30828,
+      "locs": 1
+    },
+    "olympia fields": {
+      "avg": 54555,
+      "top": 54555,
+      "locs": 1
+    },
+    "omaha": {
+      "avg": 5714,
+      "top": 5714,
+      "locs": 1
+    },
+    "onarga": {
+      "avg": 14962,
+      "top": 14962,
+      "locs": 1
+    },
+    "oneida": {
+      "avg": 37199,
+      "top": 37199,
+      "locs": 1
+    },
+    "oquawka": {
+      "avg": 17695,
+      "top": 17695,
+      "locs": 1
+    },
+    "orangeville": {
+      "avg": 13678,
+      "top": 13678,
+      "locs": 1
+    },
+    "oreana": {
+      "avg": 51067,
+      "top": 51067,
+      "locs": 1
+    },
+    "oregon": {
+      "avg": 29883,
+      "top": 29883,
+      "locs": 1
+    },
+    "orient": {
+      "avg": 15332,
+      "top": 15332,
+      "locs": 1
+    },
+    "orion": {
+      "avg": 18770,
+      "top": 18770,
+      "locs": 1
+    },
+    "orland hills": {
+      "avg": 74704,
+      "top": 74704,
+      "locs": 1
+    },
+    "orland park": {
+      "avg": 26667,
+      "top": 26667,
+      "locs": 1
+    },
+    "oswego": {
+      "avg": 40477,
+      "top": 40477,
+      "locs": 1
+    },
+    "ottawa": {
+      "avg": 27366,
+      "top": 27366,
+      "locs": 1
+    },
+    "owaneco": {
+      "avg": 2446,
+      "top": 2446,
+      "locs": 1
+    },
+    "palatine": {
+      "avg": 36511,
+      "top": 36511,
+      "locs": 1
+    },
+    "palestine": {
+      "avg": 16586,
+      "top": 16586,
+      "locs": 1
+    },
+    "palmer": {
+      "avg": 3927,
+      "top": 3927,
+      "locs": 1
+    },
+    "palmyra": {
+      "avg": 31396,
+      "top": 31396,
+      "locs": 1
+    },
+    "palos hills": {
+      "avg": 54555,
+      "top": 54555,
+      "locs": 1
+    },
+    "pana": {
+      "avg": 24730,
+      "top": 24730,
+      "locs": 1
+    },
+    "panama": {
+      "avg": 2651,
+      "top": 2651,
+      "locs": 1
+    },
+    "paris": {
+      "avg": 33752,
+      "top": 33752,
+      "locs": 1
+    },
+    "park city": {
+      "avg": 38661,
+      "top": 38661,
+      "locs": 1
+    },
+    "park forest": {
+      "avg": 35472,
+      "top": 35472,
+      "locs": 1
+    },
+    "patoka": {
+      "avg": 17910,
+      "top": 17910,
+      "locs": 1
+    },
+    "paw paw": {
+      "avg": 20765,
+      "top": 20765,
+      "locs": 1
+    },
+    "pawnee": {
+      "avg": 30233,
+      "top": 30233,
+      "locs": 1
+    },
+    "paxton": {
+      "avg": 17137,
+      "top": 17137,
+      "locs": 1
+    },
+    "payson": {
+      "avg": 30045,
+      "top": 30045,
+      "locs": 1
+    },
+    "pearl city": {
+      "avg": 10452,
+      "top": 10452,
+      "locs": 1
+    },
+    "pecatonica": {
+      "avg": 16281,
+      "top": 16281,
+      "locs": 1
+    },
+    "pekin": {
+      "avg": 29966,
+      "top": 29966,
+      "locs": 1
+    },
+    "peoria": {
+      "avg": 33176,
+      "top": 33176,
+      "locs": 1
+    },
+    "peoria county": {
+      "avg": 28073,
+      "top": 28073,
+      "locs": 1
+    },
+    "peoria heights": {
+      "avg": 39393,
+      "top": 39393,
+      "locs": 1
+    },
+    "peotone": {
+      "avg": 29913,
+      "top": 29913,
+      "locs": 1
+    },
+    "percy": {
+      "avg": 4355,
+      "top": 4355,
+      "locs": 1
+    },
+    "perry": {
+      "avg": 10558,
+      "top": 10558,
+      "locs": 1
+    },
+    "peru": {
+      "avg": 31422,
+      "top": 31422,
+      "locs": 1
+    },
+    "pesotum": {
+      "avg": 23772,
+      "top": 23772,
+      "locs": 1
+    },
+    "petersburg": {
+      "avg": 29056,
+      "top": 29056,
+      "locs": 1
+    },
+    "philo": {
+      "avg": 22471,
+      "top": 22471,
+      "locs": 1
+    },
+    "phoenix": {
+      "avg": 29790,
+      "top": 29790,
+      "locs": 1
+    },
+    "pierron": {
+      "avg": 16776,
+      "top": 16776,
+      "locs": 1
+    },
+    "pike county": {
+      "avg": 47737,
+      "top": 47737,
+      "locs": 1
+    },
+    "pinckneyville": {
+      "avg": 26117,
+      "top": 26117,
+      "locs": 1
+    },
+    "pingree grove": {
+      "avg": 69325,
+      "top": 69325,
+      "locs": 1
+    },
+    "piper city": {
+      "avg": 8580,
+      "top": 8580,
+      "locs": 1
+    },
+    "pittsburg": {
+      "avg": 7204,
+      "top": 7204,
+      "locs": 1
+    },
+    "pittsfield": {
+      "avg": 20634,
+      "top": 20634,
+      "locs": 1
+    },
+    "plainfield": {
+      "avg": 11606,
+      "top": 11606,
+      "locs": 1
+    },
+    "plano": {
+      "avg": 31857,
+      "top": 31857,
+      "locs": 1
+    },
+    "pleasant hill": {
+      "avg": 13203,
+      "top": 13203,
+      "locs": 1
+    },
+    "pleasant plains": {
+      "avg": 20197,
+      "top": 20197,
+      "locs": 1
+    },
+    "plymouth": {
+      "avg": 10661,
+      "top": 10661,
+      "locs": 1
+    },
+    "pocahontas": {
+      "avg": 20570,
+      "top": 20570,
+      "locs": 1
+    },
+    "polo": {
+      "avg": 15938,
+      "top": 15938,
+      "locs": 1
+    },
+    "pontiac": {
+      "avg": 28275,
+      "top": 28275,
+      "locs": 1
+    },
+    "pontoon beach": {
+      "avg": 42309,
+      "top": 42309,
+      "locs": 1
+    },
+    "poplar grove": {
+      "avg": 19305,
+      "top": 19305,
+      "locs": 1
+    },
+    "port barrington": {
+      "avg": 19258,
+      "top": 19258,
+      "locs": 1
+    },
+    "port byron": {
+      "avg": 21270,
+      "top": 21270,
+      "locs": 1
+    },
+    "posen": {
+      "avg": 36908,
+      "top": 36908,
+      "locs": 1
+    },
+    "potomac": {
+      "avg": 18445,
+      "top": 18445,
+      "locs": 1
+    },
+    "prairie du rocher": {
+      "avg": 15518,
+      "top": 15518,
+      "locs": 1
+    },
+    "prairie grove": {
+      "avg": 27692,
+      "top": 27692,
+      "locs": 1
+    },
+    "princeton": {
+      "avg": 31553,
+      "top": 31553,
+      "locs": 1
+    },
+    "princeville": {
+      "avg": 10863,
+      "top": 10863,
+      "locs": 1
+    },
+    "prophetstown": {
+      "avg": 14939,
+      "top": 14939,
+      "locs": 1
+    },
+    "prospect heights": {
+      "avg": 46273,
+      "top": 46273,
+      "locs": 1
+    },
+    "pulaski": {
+      "avg": 4904,
+      "top": 4904,
+      "locs": 1
+    },
+    "pulaski county": {
+      "avg": 14997,
+      "top": 14997,
+      "locs": 1
+    },
+    "putnam county": {
+      "avg": 6597,
+      "top": 6597,
+      "locs": 1
+    },
+    "quincy": {
+      "avg": 19946,
+      "top": 19946,
+      "locs": 1
+    },
+    "radom": {
+      "avg": 1733,
+      "top": 1733,
+      "locs": 1
+    },
+    "ramsey": {
+      "avg": 12901,
+      "top": 12901,
+      "locs": 1
+    },
+    "randolph county": {
+      "avg": 21866,
+      "top": 21866,
+      "locs": 1
+    },
+    "rankin": {
+      "avg": 6111,
+      "top": 6111,
+      "locs": 1
+    },
+    "ransom": {
+      "avg": 3909,
+      "top": 3909,
+      "locs": 1
+    },
+    "rantoul": {
+      "avg": 36697,
+      "top": 36697,
+      "locs": 1
+    },
+    "rapids city": {
+      "avg": 29769,
+      "top": 29769,
+      "locs": 1
+    },
+    "raymond": {
+      "avg": 25432,
+      "top": 25432,
+      "locs": 1
+    },
+    "red bud": {
+      "avg": 21687,
+      "top": 21687,
+      "locs": 1
+    },
+    "reddick": {
+      "avg": 11986,
+      "top": 11986,
+      "locs": 1
+    },
+    "reynolds": {
+      "avg": 11442,
+      "top": 11442,
+      "locs": 1
+    },
+    "richland county": {
+      "avg": 9829,
+      "top": 9829,
+      "locs": 1
+    },
+    "richmond": {
+      "avg": 28036,
+      "top": 28036,
+      "locs": 1
+    },
+    "richton park": {
+      "avg": 25393,
+      "top": 25393,
+      "locs": 1
+    },
+    "ridge farm": {
+      "avg": 22390,
+      "top": 22390,
+      "locs": 1
+    },
+    "ridgway": {
+      "avg": 11180,
+      "top": 11180,
+      "locs": 1
+    },
+    "ringwood": {
+      "avg": 33627,
+      "top": 33627,
+      "locs": 1
+    },
+    "river grove": {
+      "avg": 53529,
+      "top": 53529,
+      "locs": 1
+    },
+    "riverdale": {
+      "avg": 27034,
+      "top": 27034,
+      "locs": 1
+    },
+    "riverton": {
+      "avg": 40883,
+      "top": 40883,
+      "locs": 1
+    },
+    "riverwoods": {
+      "avg": 7523,
+      "top": 7523,
+      "locs": 1
+    },
+    "roanoke": {
+      "avg": 7840,
+      "top": 7840,
+      "locs": 1
+    },
+    "robbins": {
+      "avg": 11244,
+      "top": 11244,
+      "locs": 1
+    },
+    "roberts": {
+      "avg": 5036,
+      "top": 5036,
+      "locs": 1
+    },
+    "robinson": {
+      "avg": 18609,
+      "top": 18609,
+      "locs": 1
+    },
+    "rochelle": {
+      "avg": 30976,
+      "top": 30976,
+      "locs": 1
+    },
+    "rochester": {
+      "avg": 22745,
+      "top": 22745,
+      "locs": 1
+    },
+    "rock city": {
+      "avg": 28739,
+      "top": 28739,
+      "locs": 1
+    },
+    "rock falls": {
+      "avg": 27953,
+      "top": 27953,
+      "locs": 1
+    },
+    "rock island": {
+      "avg": 28912,
+      "top": 28912,
+      "locs": 1
+    },
+    "rock island county": {
+      "avg": 18059,
+      "top": 18059,
+      "locs": 1
+    },
+    "rockdale": {
+      "avg": 28433,
+      "top": 28433,
+      "locs": 1
+    },
+    "rockford": {
+      "avg": 38723,
+      "top": 38723,
+      "locs": 1
+    },
+    "rockton": {
+      "avg": 23115,
+      "top": 23115,
+      "locs": 1
+    },
+    "rolling meadows": {
+      "avg": 73521,
+      "top": 73521,
+      "locs": 1
+    },
+    "romeoville": {
+      "avg": 43864,
+      "top": 43864,
+      "locs": 1
+    },
+    "roodhouse": {
+      "avg": 19405,
+      "top": 19405,
+      "locs": 1
+    },
+    "roscoe": {
+      "avg": 39485,
+      "top": 39485,
+      "locs": 1
+    },
+    "roselle": {
+      "avg": 37364,
+      "top": 37364,
+      "locs": 1
+    },
+    "rosemont": {
+      "avg": 40157,
+      "top": 40157,
+      "locs": 1
+    },
+    "roseville": {
+      "avg": 10248,
+      "top": 10248,
+      "locs": 1
+    },
+    "rosiclare": {
+      "avg": 14031,
+      "top": 14031,
+      "locs": 1
+    },
+    "rossville": {
+      "avg": 3617,
+      "top": 3617,
+      "locs": 1
+    },
+    "round lake": {
+      "avg": 35096,
+      "top": 35096,
+      "locs": 1
+    },
+    "round lake beach": {
+      "avg": 46863,
+      "top": 46863,
+      "locs": 1
+    },
+    "round lake heights": {
+      "avg": 48644,
+      "top": 48644,
+      "locs": 1
+    },
+    "round lake park": {
+      "avg": 33412,
+      "top": 33412,
+      "locs": 1
+    },
+    "royal": {
+      "avg": 8983,
+      "top": 8983,
+      "locs": 1
+    },
+    "royalton": {
+      "avg": 19856,
+      "top": 19856,
+      "locs": 1
+    },
+    "ruma": {
+      "avg": 3865,
+      "top": 3865,
+      "locs": 1
+    },
+    "rushville": {
+      "avg": 24555,
+      "top": 24555,
+      "locs": 1
+    },
+    "russellville": {
+      "avg": 6565,
+      "top": 6565,
+      "locs": 1
+    },
+    "rutland": {
+      "avg": 9992,
+      "top": 9992,
+      "locs": 1
+    },
+    "sadorus": {
+      "avg": 16280,
+      "top": 16280,
+      "locs": 1
+    },
+    "saint elmo": {
+      "avg": 14964,
+      "top": 14964,
+      "locs": 1
+    },
+    "sainte marie": {
+      "avg": 10078,
+      "top": 10078,
+      "locs": 1
+    },
+    "salem": {
+      "avg": 31186,
+      "top": 31186,
+      "locs": 1
+    },
+    "saline county": {
+      "avg": 19738,
+      "top": 19738,
+      "locs": 1
+    },
+    "sandoval": {
+      "avg": 22455,
+      "top": 22455,
+      "locs": 1
+    },
+    "sandwich": {
+      "avg": 17878,
+      "top": 17878,
+      "locs": 1
+    },
+    "sangamon county": {
+      "avg": 37292,
+      "top": 37292,
+      "locs": 1
+    },
+    "sauget": {
+      "avg": 48868,
+      "top": 48868,
+      "locs": 1
+    },
+    "sauk village": {
+      "avg": 69909,
+      "top": 69909,
+      "locs": 1
+    },
+    "saunemin": {
+      "avg": 14041,
+      "top": 14041,
+      "locs": 1
+    },
+    "savanna": {
+      "avg": 17423,
+      "top": 17423,
+      "locs": 1
+    },
+    "savoy": {
+      "avg": 44232,
+      "top": 44232,
+      "locs": 1
+    },
+    "sawyerville": {
+      "avg": 24492,
+      "top": 24492,
+      "locs": 1
+    },
+    "scales mound": {
+      "avg": 14704,
+      "top": 14704,
+      "locs": 1
+    },
+    "schaumburg": {
+      "avg": 31076,
+      "top": 31076,
+      "locs": 1
+    },
+    "schiller park": {
+      "avg": 38609,
+      "top": 38609,
+      "locs": 1
+    },
+    "schram city": {
+      "avg": 9917,
+      "top": 9917,
+      "locs": 1
+    },
+    "schuyler county": {
+      "avg": 36462,
+      "top": 36462,
+      "locs": 1
+    },
+    "scott county": {
+      "avg": 17495,
+      "top": 17495,
+      "locs": 1
+    },
+    "seneca": {
+      "avg": 16616,
+      "top": 16616,
+      "locs": 1
+    },
+    "sesser": {
+      "avg": 15445,
+      "top": 15445,
+      "locs": 1
+    },
+    "shabbona": {
+      "avg": 19853,
+      "top": 19853,
+      "locs": 1
+    },
+    "shannon": {
+      "avg": 18560,
+      "top": 18560,
+      "locs": 1
+    },
+    "shawneetown": {
+      "avg": 24323,
+      "top": 24323,
+      "locs": 1
+    },
+    "sheffield": {
+      "avg": 16941,
+      "top": 16941,
+      "locs": 1
+    },
+    "shelby county": {
+      "avg": 36192,
+      "top": 36192,
+      "locs": 1
+    },
+    "shelbyville": {
+      "avg": 29280,
+      "top": 29280,
+      "locs": 1
+    },
+    "sheldon": {
+      "avg": 29510,
+      "top": 29510,
+      "locs": 1
+    },
+    "sheridan": {
+      "avg": 16256,
+      "top": 16256,
+      "locs": 1
+    },
+    "sherman": {
+      "avg": 21999,
+      "top": 21999,
+      "locs": 1
+    },
+    "sherrard": {
+      "avg": 13141,
+      "top": 13141,
+      "locs": 1
+    },
+    "shiloh": {
+      "avg": 55736,
+      "top": 55736,
+      "locs": 1
+    },
+    "shipman": {
+      "avg": 16740,
+      "top": 16740,
+      "locs": 1
+    },
+    "shorewood": {
+      "avg": 28085,
+      "top": 28085,
+      "locs": 1
+    },
+    "sibley": {
+      "avg": 9329,
+      "top": 9329,
+      "locs": 1
+    },
+    "sidell": {
+      "avg": 3970,
+      "top": 3970,
+      "locs": 1
+    },
+    "sidney": {
+      "avg": 25347,
+      "top": 25347,
+      "locs": 1
+    },
+    "sigel": {
+      "avg": 19347,
+      "top": 19347,
+      "locs": 1
+    },
+    "silvis": {
+      "avg": 24849,
+      "top": 24849,
+      "locs": 1
+    },
+    "sleepy hollow": {
+      "avg": 21934,
+      "top": 21934,
+      "locs": 1
+    },
+    "smithton": {
+      "avg": 31575,
+      "top": 31575,
+      "locs": 1
+    },
+    "somonauk": {
+      "avg": 24065,
+      "top": 24065,
+      "locs": 1
+    },
+    "sorento": {
+      "avg": 11777,
+      "top": 11777,
+      "locs": 1
+    },
+    "south beloit": {
+      "avg": 43986,
+      "top": 43986,
+      "locs": 1
+    },
+    "south chicago heights": {
+      "avg": 21722,
+      "top": 21722,
+      "locs": 1
+    },
+    "south elgin": {
+      "avg": 48532,
+      "top": 48532,
+      "locs": 1
+    },
+    "south jacksonville": {
+      "avg": 39293,
+      "top": 39293,
+      "locs": 1
+    },
+    "south pekin": {
+      "avg": 15630,
+      "top": 15630,
+      "locs": 1
+    },
+    "south roxana": {
+      "avg": 11407,
+      "top": 11407,
+      "locs": 1
+    },
+    "south wilmington": {
+      "avg": 7322,
+      "top": 7322,
+      "locs": 1
+    },
+    "southern view": {
+      "avg": 47039,
+      "top": 47039,
+      "locs": 1
+    },
+    "sparta": {
+      "avg": 23911,
+      "top": 23911,
+      "locs": 1
+    },
+    "spaulding": {
+      "avg": 35484,
+      "top": 35484,
+      "locs": 1
+    },
+    "spring bay": {
+      "avg": 17796,
+      "top": 17796,
+      "locs": 1
+    },
+    "spring grove": {
+      "avg": 25777,
+      "top": 25777,
+      "locs": 1
+    },
+    "spring valley": {
+      "avg": 19464,
+      "top": 19464,
+      "locs": 1
+    },
+    "springfield": {
+      "avg": 33918,
+      "top": 33918,
+      "locs": 1
+    },
+    "st. anne": {
+      "avg": 8906,
+      "top": 8906,
+      "locs": 1
+    },
+    "st. augustine": {
+      "avg": 3902,
+      "top": 3902,
+      "locs": 1
+    },
+    "st. charles": {
+      "avg": 24034,
+      "top": 24034,
+      "locs": 1
+    },
+    "st. clair county": {
+      "avg": 42869,
+      "top": 42869,
+      "locs": 1
+    },
+    "st. david": {
+      "avg": 16789,
+      "top": 16789,
+      "locs": 1
+    },
+    "st. francisville": {
+      "avg": 7607,
+      "top": 7607,
+      "locs": 1
+    },
+    "st. jacob": {
+      "avg": 9286,
+      "top": 9286,
+      "locs": 1
+    },
+    "st. johns": {
+      "avg": 19528,
+      "top": 19528,
+      "locs": 1
+    },
+    "st. joseph": {
+      "avg": 24070,
+      "top": 24070,
+      "locs": 1
+    },
+    "st. libory": {
+      "avg": 34213,
+      "top": 34213,
+      "locs": 1
+    },
+    "st. peter": {
+      "avg": 4086,
+      "top": 4086,
+      "locs": 1
+    },
+    "st. rose": {
+      "avg": 10268,
+      "top": 10268,
+      "locs": 1
+    },
+    "standard": {
+      "avg": 10297,
+      "top": 10297,
+      "locs": 1
+    },
+    "stark county": {
+      "avg": 5559,
+      "top": 5559,
+      "locs": 1
+    },
+    "staunton": {
+      "avg": 20101,
+      "top": 20101,
+      "locs": 1
+    },
+    "steeleville": {
+      "avg": 20040,
+      "top": 20040,
+      "locs": 1
+    },
+    "steger": {
+      "avg": 24134,
+      "top": 24134,
+      "locs": 1
+    },
+    "stephenson county": {
+      "avg": 20079,
+      "top": 20079,
+      "locs": 1
+    },
+    "sterling": {
+      "avg": 27161,
+      "top": 27161,
+      "locs": 1
+    },
+    "steward": {
+      "avg": 2524,
+      "top": 2524,
+      "locs": 1
+    },
+    "stewardson": {
+      "avg": 8362,
+      "top": 8362,
+      "locs": 1
+    },
+    "stickney": {
+      "avg": 87762,
+      "top": 87762,
+      "locs": 1
+    },
+    "stillman valley": {
+      "avg": 19131,
+      "top": 19131,
+      "locs": 1
+    },
+    "stockton": {
+      "avg": 19723,
+      "top": 19723,
+      "locs": 1
+    },
+    "stone park": {
+      "avg": 27016,
+      "top": 27016,
+      "locs": 1
+    },
+    "stonington": {
+      "avg": 9536,
+      "top": 9536,
+      "locs": 1
+    },
+    "stoy": {
+      "avg": 32192,
+      "top": 32192,
+      "locs": 1
+    },
+    "strasburg": {
+      "avg": 16243,
+      "top": 16243,
+      "locs": 1
+    },
+    "streamwood": {
+      "avg": 44706,
+      "top": 44706,
+      "locs": 1
+    },
+    "streator": {
+      "avg": 23692,
+      "top": 23692,
+      "locs": 1
+    },
+    "stronghurst": {
+      "avg": 5383,
+      "top": 5383,
+      "locs": 1
+    },
+    "sublette": {
+      "avg": 4899,
+      "top": 4899,
+      "locs": 1
+    },
+    "sugar grove": {
+      "avg": 35934,
+      "top": 35934,
+      "locs": 1
+    },
+    "sullivan": {
+      "avg": 15081,
+      "top": 15081,
+      "locs": 1
+    },
+    "summerfield": {
+      "avg": 13649,
+      "top": 13649,
+      "locs": 1
+    },
+    "summit": {
+      "avg": 35117,
+      "top": 35117,
+      "locs": 1
+    },
+    "sumner": {
+      "avg": 13879,
+      "top": 13879,
+      "locs": 1
+    },
+    "swansea": {
+      "avg": 45792,
+      "top": 45792,
+      "locs": 1
+    },
+    "sycamore": {
+      "avg": 26871,
+      "top": 26871,
+      "locs": 1
+    },
+    "symerton": {
+      "avg": 21939,
+      "top": 21939,
+      "locs": 1
+    },
+    "table grove": {
+      "avg": 6618,
+      "top": 6618,
+      "locs": 1
+    },
+    "tallula": {
+      "avg": 30976,
+      "top": 30976,
+      "locs": 1
+    },
+    "tamaroa": {
+      "avg": 12309,
+      "top": 12309,
+      "locs": 1
+    },
+    "tampico": {
+      "avg": 10207,
+      "top": 10207,
+      "locs": 1
+    },
+    "taylor springs": {
+      "avg": 13212,
+      "top": 13212,
+      "locs": 1
+    },
+    "taylorville": {
+      "avg": 26223,
+      "top": 26223,
+      "locs": 1
+    },
+    "tazewell county": {
+      "avg": 23015,
+      "top": 23015,
+      "locs": 1
+    },
+    "teutopolis": {
+      "avg": 23051,
+      "top": 23051,
+      "locs": 1
+    },
+    "thayer": {
+      "avg": 6997,
+      "top": 6997,
+      "locs": 1
+    },
+    "third lake": {
+      "avg": 27308,
+      "top": 27308,
+      "locs": 1
+    },
+    "thomasboro": {
+      "avg": 14726,
+      "top": 14726,
+      "locs": 1
+    },
+    "thompsonville": {
+      "avg": 16519,
+      "top": 16519,
+      "locs": 1
+    },
+    "thomson": {
+      "avg": 19046,
+      "top": 19046,
+      "locs": 1
+    },
+    "thornton": {
+      "avg": 24386,
+      "top": 24386,
+      "locs": 1
+    },
+    "tilden": {
+      "avg": 5348,
+      "top": 5348,
+      "locs": 1
+    },
+    "tilton": {
+      "avg": 46108,
+      "top": 46108,
+      "locs": 1
+    },
+    "tinley park": {
+      "avg": 53284,
+      "top": 53284,
+      "locs": 1
+    },
+    "tiskilwa": {
+      "avg": 4388,
+      "top": 4388,
+      "locs": 1
+    },
+    "toledo": {
+      "avg": 26218,
+      "top": 26218,
+      "locs": 1
+    },
+    "tolono": {
+      "avg": 29573,
+      "top": 29573,
+      "locs": 1
+    },
+    "toluca": {
+      "avg": 13048,
+      "top": 13048,
+      "locs": 1
+    },
+    "tonica": {
+      "avg": 31624,
+      "top": 31624,
+      "locs": 1
+    },
+    "toulon": {
+      "avg": 11644,
+      "top": 11644,
+      "locs": 1
+    },
+    "tovey": {
+      "avg": 12331,
+      "top": 12331,
+      "locs": 1
+    },
+    "towanda": {
+      "avg": 54872,
+      "top": 54872,
+      "locs": 1
+    },
+    "tower hill": {
+      "avg": 44359,
+      "top": 44359,
+      "locs": 1
+    },
+    "tremont": {
+      "avg": 21382,
+      "top": 21382,
+      "locs": 1
+    },
+    "trenton": {
+      "avg": 37027,
+      "top": 37027,
+      "locs": 1
+    },
+    "troy": {
+      "avg": 32132,
+      "top": 32132,
+      "locs": 1
+    },
+    "troy grove": {
+      "avg": 8131,
+      "top": 8131,
+      "locs": 1
+    },
+    "tuscola": {
+      "avg": 30040,
+      "top": 30040,
+      "locs": 1
+    },
+    "ullin": {
+      "avg": 18683,
+      "top": 18683,
+      "locs": 1
+    },
+    "union": {
+      "avg": 13857,
+      "top": 13857,
+      "locs": 1
+    },
+    "union county": {
+      "avg": 14789,
+      "top": 14789,
+      "locs": 1
+    },
+    "university park": {
+      "avg": 21233,
+      "top": 21233,
+      "locs": 1
+    },
+    "urbana": {
+      "avg": 44979,
+      "top": 44979,
+      "locs": 1
+    },
+    "ursa": {
+      "avg": 14105,
+      "top": 14105,
+      "locs": 1
+    },
+    "valmeyer": {
+      "avg": 5360,
+      "top": 5360,
+      "locs": 1
+    },
+    "vandalia": {
+      "avg": 29882,
+      "top": 29882,
+      "locs": 1
+    },
+    "venedy": {
+      "avg": 3327,
+      "top": 3327,
+      "locs": 1
+    },
+    "venice": {
+      "avg": 8858,
+      "top": 8858,
+      "locs": 1
+    },
+    "vermilion county": {
+      "avg": 20055,
+      "top": 20055,
+      "locs": 1
+    },
+    "vermont": {
+      "avg": 6349,
+      "top": 6349,
+      "locs": 1
+    },
+    "victoria": {
+      "avg": 7353,
+      "top": 7353,
+      "locs": 1
+    },
+    "vienna": {
+      "avg": 15759,
+      "top": 15759,
+      "locs": 1
+    },
+    "villa grove": {
+      "avg": 16747,
+      "top": 16747,
+      "locs": 1
+    },
+    "villa park": {
+      "avg": 44229,
+      "top": 44229,
+      "locs": 1
+    },
+    "viola": {
+      "avg": 15233,
+      "top": 15233,
+      "locs": 1
+    },
+    "virden": {
+      "avg": 23989,
+      "top": 23989,
+      "locs": 1
+    },
+    "virginia": {
+      "avg": 23393,
+      "top": 23393,
+      "locs": 1
+    },
+    "volo": {
+      "avg": 52199,
+      "top": 52199,
+      "locs": 1
+    },
+    "wadsworth": {
+      "avg": 57790,
+      "top": 57790,
+      "locs": 1
+    },
+    "walnut": {
+      "avg": 15140,
+      "top": 15140,
+      "locs": 1
+    },
+    "walnut hill": {
+      "avg": 22706,
+      "top": 22706,
+      "locs": 1
+    },
+    "waltonville": {
+      "avg": 39386,
+      "top": 39386,
+      "locs": 1
+    },
+    "wamac": {
+      "avg": 34534,
+      "top": 34534,
+      "locs": 1
+    },
+    "wapella": {
+      "avg": 22410,
+      "top": 22410,
+      "locs": 1
+    },
+    "warren": {
+      "avg": 18762,
+      "top": 18762,
+      "locs": 1
+    },
+    "warren county": {
+      "avg": 16158,
+      "top": 16158,
+      "locs": 1
+    },
+    "warrensburg": {
+      "avg": 22562,
+      "top": 22562,
+      "locs": 1
+    },
+    "warrenville": {
+      "avg": 26541,
+      "top": 26541,
+      "locs": 1
+    },
+    "warsaw": {
+      "avg": 5716,
+      "top": 5716,
+      "locs": 1
+    },
+    "washburn": {
+      "avg": 7478,
+      "top": 7478,
+      "locs": 1
+    },
+    "washington": {
+      "avg": 31926,
+      "top": 31926,
+      "locs": 1
+    },
+    "washington county": {
+      "avg": 26903,
+      "top": 26903,
+      "locs": 1
+    },
+    "washington park": {
+      "avg": 22292,
+      "top": 22292,
+      "locs": 1
+    },
+    "wataga": {
+      "avg": 31816,
+      "top": 31816,
+      "locs": 1
+    },
+    "waterloo": {
+      "avg": 29745,
+      "top": 29745,
+      "locs": 1
+    },
+    "waterman": {
+      "avg": 10803,
+      "top": 10803,
+      "locs": 1
+    },
+    "watseka": {
+      "avg": 23876,
+      "top": 23876,
+      "locs": 1
+    },
+    "wauconda": {
+      "avg": 36249,
+      "top": 36249,
+      "locs": 1
+    },
+    "waukegan": {
+      "avg": 40258,
+      "top": 40258,
+      "locs": 1
+    },
+    "waverly": {
+      "avg": 21222,
+      "top": 21222,
+      "locs": 1
+    },
+    "wayne city": {
+      "avg": 16881,
+      "top": 16881,
+      "locs": 1
+    },
+    "wayne county": {
+      "avg": 12166,
+      "top": 12166,
+      "locs": 1
+    },
+    "waynesville": {
+      "avg": 6403,
+      "top": 6403,
+      "locs": 1
+    },
+    "wenona": {
+      "avg": 25334,
+      "top": 25334,
+      "locs": 1
+    },
+    "west brooklyn": {
+      "avg": 11441,
+      "top": 11441,
+      "locs": 1
+    },
+    "west chicago": {
+      "avg": 21231,
+      "top": 21231,
+      "locs": 1
+    },
+    "west city": {
+      "avg": 24964,
+      "top": 24964,
+      "locs": 1
+    },
+    "west dundee": {
+      "avg": 18693,
+      "top": 18693,
+      "locs": 1
+    },
+    "west frankfort": {
+      "avg": 31578,
+      "top": 31578,
+      "locs": 1
+    },
+    "west peoria": {
+      "avg": 27124,
+      "top": 27124,
+      "locs": 1
+    },
+    "west salem": {
+      "avg": 8401,
+      "top": 8401,
+      "locs": 1
+    },
+    "westchester": {
+      "avg": 75390,
+      "top": 75390,
+      "locs": 1
+    },
+    "westfield": {
+      "avg": 31951,
+      "top": 31951,
+      "locs": 1
+    },
+    "westmont": {
+      "avg": 48846,
+      "top": 48846,
+      "locs": 1
+    },
+    "westville": {
+      "avg": 22887,
+      "top": 22887,
+      "locs": 1
+    },
+    "wheeling": {
+      "avg": 42041,
+      "top": 42041,
+      "locs": 1
+    },
+    "white county": {
+      "avg": 8555,
+      "top": 8555,
+      "locs": 1
+    },
+    "white hall": {
+      "avg": 25049,
+      "top": 25049,
+      "locs": 1
+    },
+    "whiteside county": {
+      "avg": 28395,
+      "top": 28395,
+      "locs": 1
+    },
+    "will county": {
+      "avg": 29286,
+      "top": 29286,
+      "locs": 1
+    },
+    "williamsfield": {
+      "avg": 12320,
+      "top": 12320,
+      "locs": 1
+    },
+    "williamson": {
+      "avg": 22000,
+      "top": 22000,
+      "locs": 1
+    },
+    "williamson county": {
+      "avg": 27363,
+      "top": 27363,
+      "locs": 1
+    },
+    "williamsville": {
+      "avg": 35778,
+      "top": 35778,
+      "locs": 1
+    },
+    "willisville": {
+      "avg": 23841,
+      "top": 23841,
+      "locs": 1
+    },
+    "willow springs": {
+      "avg": 24482,
+      "top": 24482,
+      "locs": 1
+    },
+    "willowbrook": {
+      "avg": 70751,
+      "top": 70751,
+      "locs": 1
+    },
+    "wilmington": {
+      "avg": 19371,
+      "top": 19371,
+      "locs": 1
+    },
+    "wilsonville": {
+      "avg": 7838,
+      "top": 7838,
+      "locs": 1
+    },
+    "winchester": {
+      "avg": 13346,
+      "top": 13346,
+      "locs": 1
+    },
+    "windsor (mercer)": {
+      "avg": 4335,
+      "top": 4335,
+      "locs": 1
+    },
+    "windsor (shelby)": {
+      "avg": 19390,
+      "top": 19390,
+      "locs": 1
+    },
+    "winnebago": {
+      "avg": 29193,
+      "top": 29193,
+      "locs": 1
+    },
+    "winnebago county": {
+      "avg": 46849,
+      "top": 46849,
+      "locs": 1
+    },
+    "winslow": {
+      "avg": 8583,
+      "top": 8583,
+      "locs": 1
+    },
+    "winthrop harbor": {
+      "avg": 67430,
+      "top": 67430,
+      "locs": 1
+    },
+    "witt": {
+      "avg": 21271,
+      "top": 21271,
+      "locs": 1
+    },
+    "wonder lake": {
+      "avg": 35765,
+      "top": 35765,
+      "locs": 1
+    },
+    "wood dale": {
+      "avg": 33164,
+      "top": 33164,
+      "locs": 1
+    },
+    "wood river": {
+      "avg": 31210,
+      "top": 31210,
+      "locs": 1
+    },
+    "woodford county": {
+      "avg": 9549,
+      "top": 9549,
+      "locs": 1
+    },
+    "woodhull": {
+      "avg": 20946,
+      "top": 20946,
+      "locs": 1
+    },
+    "woodridge": {
+      "avg": 44914,
+      "top": 44914,
+      "locs": 1
+    },
+    "woodson": {
+      "avg": 30109,
+      "top": 30109,
+      "locs": 1
+    },
+    "woodstock": {
+      "avg": 34192,
+      "top": 34192,
+      "locs": 1
+    },
+    "worden": {
+      "avg": 13170,
+      "top": 13170,
+      "locs": 1
+    },
+    "worth": {
+      "avg": 34796,
+      "top": 34796,
+      "locs": 1
+    },
+    "wyanet": {
+      "avg": 18652,
+      "top": 18652,
+      "locs": 1
+    },
+    "wyoming": {
+      "avg": 10854,
+      "top": 10854,
+      "locs": 1
+    },
+    "xenia": {
+      "avg": 20378,
+      "top": 20378,
+      "locs": 1
+    },
+    "yates city": {
+      "avg": 18936,
+      "top": 18936,
+      "locs": 1
+    },
+    "yorkville": {
+      "avg": 29154,
+      "top": 29154,
+      "locs": 1
+    },
+    "zeigler": {
+      "avg": 17718,
+      "top": 17718,
+      "locs": 1
+    },
+    "zion": {
+      "avg": 51650,
+      "top": 51650,
+      "locs": 1
+    },
+    "default": {
+      "avg": 8200,
+      "top": 11600,
+      "locs": 65
+    }
   }
 }
