@@ -1,0 +1,63 @@
+name: IGB Data Sync
+
+# Runs on the 10th of every month at 9am CT (15:00 UTC)
+# IGB typically publishes the prior month's data around the 5th-8th
+on:
+  schedule:
+    - cron: '0 15 10 * *'
+  # Allow manual trigger from GitHub UI at any time
+  workflow_dispatch:
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+
+    permissions:
+      contents: write   # needed to commit igb_data.json back to repo
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: |
+          pip install playwright requests python-dateutil
+          playwright install chromium
+          playwright install-deps chromium
+
+      - name: Run IGB scraper
+        run: python scripts/igb_scraper.py
+        env:
+          # Optional: set to a Slack webhook URL to get notified on failure
+          SLACK_WEBHOOK: ${{ secrets.SLACK_WEBHOOK }}
+
+      - name: Verify output
+        run: |
+          python -c "
+          import json, sys
+          with open('data/igb_data.json') as f:
+              d = json.load(f)
+          cities = len(d.get('cities', {}))
+          month  = d.get('data_month', 'unknown')
+          print(f'OK: {cities} cities loaded for {month}')
+          if cities < 10:
+              print('ERROR: too few cities — scrape may have failed')
+              sys.exit(1)
+          "
+
+      - name: Commit updated data
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/igb_data.json
+          # Only commit if the file actually changed
+          git diff --staged --quiet && echo "No changes — data unchanged" || (
+            git commit -m "chore: IGB data sync $(date +'%Y-%m')"
+            git push
+          )
